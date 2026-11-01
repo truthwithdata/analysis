@@ -1,0 +1,5 @@
+trained,tested,n_ai,n_human,roc_auc,caught_at_1pct_fpr
+trained on GPT-2 (2019),GPT-2 reviews,1768,1768,0.9811854410229112,0.7669683257918553
+trained on GPT-2 (2019),modern chat-model reviews,1533,1533,0.563348026393894,0.012393998695368558
+trained on modern chat models,GPT-2 reviews,1768,1768,0.4863917482238283,0.023755656108597284
+trained on modern chat models,modern chat-model reviews,1533,1533,0.9860103170560774,0.8023483365949119

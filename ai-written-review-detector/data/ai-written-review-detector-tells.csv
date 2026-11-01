@@ -1,0 +1,10 @@
+tell,pct_ai,pct_human
+"Uses the word ""the""",79.26829268292683,44.62419113987058
+"Opens with ""The ..."" or ""This ...""",69.71129915380786,9.556993529118966
+"Uses ""great"", ""good"" or ""nice""",12.717770034843207,33.92234942757591
+"Uses ""not""",1.7172722747635638,13.26530612244898
+"Speaks to the reader (""you"")",0.7715281234444997,7.8148332503733196
+"No full stop, ! or ? at the end",1.16973618715779,18.491786958685914
+"Lower-case ""i"" or a missing apostrophe",0.0,2.4888003982080638
+"Stretched letters or repeated punctuation (""sooo"", ""!!"")",0.049776007964161276,7.018417122946739
+Contains a number,1.1448481831757094,11.921353907416625
