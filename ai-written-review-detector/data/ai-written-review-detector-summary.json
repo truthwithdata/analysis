@@ -1,0 +1,84 @@
+{
+ "raw": {
+  "crsd_rows": 10147,
+  "human_rows": 20216,
+  "gpt2_rows": 20216
+ },
+ "clean": {
+  "human": 11380,
+  "legacy": 12698,
+  "modern": 7475
+ },
+ "matched_n": 8036,
+ "matched_ai": 4018,
+ "generators": 9,
+ "cv": {
+  "ngram": {
+   "label": "Word and character patterns (full model)",
+   "n": 8036,
+   "roc_auc": 0.9899741234132814,
+   "accuracy": 0.9529616724738676,
+   "recall_at_1pct_fpr": 0.8643603782976605,
+   "recall_at_5pct_fpr": 0.9542060726729716
+  },
+  "style": {
+   "label": "Style only: 24 features, no vocabulary",
+   "n": 8036,
+   "roc_auc": 0.9603448865372126,
+   "accuracy": 0.8893728222996515,
+   "recall_at_1pct_fpr": 0.6020408163265306,
+   "recall_at_5pct_fpr": 0.7971627675460428
+  },
+  "browser": {
+   "label": "Compact model that runs in your browser",
+   "n": 8036,
+   "roc_auc": 0.9858603556271542,
+   "accuracy": 0.9418865107018417,
+   "recall_at_1pct_fpr": 0.8118466898954704,
+   "recall_at_5pct_fpr": 0.929318068690891
+  }
+ },
+ "logo_auc_min": 0.912183485557288,
+ "logo_auc_max": 0.9886614462896783,
+ "logo_caught_min": 0.291044776119403,
+ "logo_caught_max": 0.8727272727272727,
+ "logo_caught_median": 0.7281553398058253,
+ "cross": [
+  {
+   "trained": "trained on GPT-2 (2019)",
+   "tested": "GPT-2 reviews",
+   "n_ai": 1768,
+   "n_human": 1768,
+   "roc_auc": 0.9811854410229112,
+   "caught_at_1pct_fpr": 0.7669683257918553
+  },
+  {
+   "trained": "trained on GPT-2 (2019)",
+   "tested": "modern chat-model reviews",
+   "n_ai": 1533,
+   "n_human": 1533,
+   "roc_auc": 0.563348026393894,
+   "caught_at_1pct_fpr": 0.012393998695368558
+  },
+  {
+   "trained": "trained on modern chat models",
+   "tested": "GPT-2 reviews",
+   "n_ai": 1768,
+   "n_human": 1768,
+   "roc_auc": 0.4863917482238283,
+   "caught_at_1pct_fpr": 0.023755656108597284
+  },
+  {
+   "trained": "trained on modern chat models",
+   "tested": "modern chat-model reviews",
+   "n_ai": 1533,
+   "n_human": 1533,
+   "roc_auc": 0.9860103170560774,
+   "caught_at_1pct_fpr": 0.8023483365949119
+  }
+ ],
+ "browser_thresholds": {
+  "fpr1": 0.7683,
+  "fpr5": 0.5306
+ }
+}
