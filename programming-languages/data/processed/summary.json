@@ -1,0 +1,404 @@
+{
+ "windows": {
+  "before": [
+   "2021-11",
+   "2022-10"
+  ],
+  "after": [
+   "2025-11",
+   "2026-10"
+  ],
+  "github_before": "2021Q3-2022Q2",
+  "github_after": "2025Q3-2026Q2",
+  "survey": "2022 vs 2026"
+ },
+ "world_ranking": [
+  {
+   "language": "Rust",
+   "rank": 1.0,
+   "momentum": 1.78,
+   "verdict": "Genuinely growing",
+   "n_up": 3,
+   "n_signals": 3,
+   "usage": 0.539,
+   "learning": 0.332,
+   "hiring": 0.486,
+   "interest": NaN
+  },
+  {
+   "language": "TypeScript",
+   "rank": 2.0,
+   "momentum": 1.117,
+   "verdict": "Quiet workhorse",
+   "n_up": 2,
+   "n_signals": 3,
+   "usage": 0.733,
+   "learning": -0.045,
+   "hiring": 0.343,
+   "interest": NaN
+  },
+  {
+   "language": "Python",
+   "rank": 3.0,
+   "momentum": 0.827,
+   "verdict": "Genuinely growing",
+   "n_up": 4,
+   "n_signals": 4,
+   "usage": 0.281,
+   "learning": 0.028,
+   "hiring": 0.283,
+   "interest": 0.116
+  },
+  {
+   "language": "SQL",
+   "rank": 4.0,
+   "momentum": 0.523,
+   "verdict": "Genuinely growing",
+   "n_up": 2,
+   "n_signals": 3,
+   "usage": NaN,
+   "learning": 0.156,
+   "hiring": 0.085,
+   "interest": -0.116
+  },
+  {
+   "language": "C++",
+   "rank": 5.0,
+   "momentum": 0.282,
+   "verdict": "Hype",
+   "n_up": 1,
+   "n_signals": 4,
+   "usage": -0.139,
+   "learning": 0.175,
+   "hiring": -0.195,
+   "interest": -0.068
+  },
+  {
+   "language": "Go",
+   "rank": 6.0,
+   "momentum": 0.067,
+   "verdict": "Fading",
+   "n_up": 1,
+   "n_signals": 4,
+   "usage": -0.169,
+   "learning": 0.034,
+   "hiring": -0.132,
+   "interest": -0.11
+  },
+  {
+   "language": "Swift",
+   "rank": 7.0,
+   "momentum": -0.002,
+   "verdict": "Fading",
+   "n_up": 1,
+   "n_signals": 3,
+   "usage": 0.097,
+   "learning": -0.075,
+   "hiring": -0.342,
+   "interest": NaN
+  },
+  {
+   "language": "JavaScript",
+   "rank": 8.0,
+   "momentum": -0.072,
+   "verdict": "Fading",
+   "n_up": 1,
+   "n_signals": 4,
+   "usage": 0.055,
+   "learning": -0.23,
+   "hiring": -0.136,
+   "interest": -0.021
+  },
+  {
+   "language": "PHP",
+   "rank": 9.0,
+   "momentum": -0.176,
+   "verdict": "Hype",
+   "n_up": 1,
+   "n_signals": 4,
+   "usage": -0.466,
+   "learning": -0.067,
+   "hiring": -0.787,
+   "interest": 0.331
+  },
+  {
+   "language": "Kotlin",
+   "rank": 10.0,
+   "momentum": -0.305,
+   "verdict": "Fading",
+   "n_up": 1,
+   "n_signals": 3,
+   "usage": 0.034,
+   "learning": -0.095,
+   "hiring": -0.596,
+   "interest": NaN
+  },
+  {
+   "language": "Java",
+   "rank": 11.0,
+   "momentum": -0.373,
+   "verdict": "Fading",
+   "n_up": 1,
+   "n_signals": 4,
+   "usage": -0.491,
+   "learning": -0.124,
+   "hiring": -0.592,
+   "interest": 0.12
+  },
+  {
+   "language": "R",
+   "rank": 12.0,
+   "momentum": -0.476,
+   "verdict": "Fading",
+   "n_up": 1,
+   "n_signals": 3,
+   "usage": -0.559,
+   "learning": 0.02,
+   "hiring": NaN,
+   "interest": -0.226
+  },
+  {
+   "language": "C#",
+   "rank": 13.0,
+   "momentum": -0.754,
+   "verdict": "Fading",
+   "n_up": 0,
+   "n_signals": 4,
+   "usage": -0.375,
+   "learning": -0.049,
+   "hiring": -0.445,
+   "interest": -0.466
+  },
+  {
+   "language": "Ruby",
+   "rank": 14.0,
+   "momentum": -0.848,
+   "verdict": "Fading",
+   "n_up": 0,
+   "n_signals": 3,
+   "usage": -0.696,
+   "learning": -0.057,
+   "hiring": -0.677,
+   "interest": NaN
+  },
+  {
+   "language": "Dart",
+   "rank": 15.0,
+   "momentum": -0.857,
+   "verdict": "Fading",
+   "n_up": 1,
+   "n_signals": 3,
+   "usage": 0.076,
+   "learning": -0.529,
+   "hiring": -0.358,
+   "interest": NaN
+  },
+  {
+   "language": "Scala",
+   "rank": 16.0,
+   "momentum": -0.881,
+   "verdict": "Fading",
+   "n_up": 0,
+   "n_signals": 3,
+   "usage": -0.954,
+   "learning": -0.141,
+   "hiring": -0.318,
+   "interest": NaN
+  },
+  {
+   "language": "Julia",
+   "rank": NaN,
+   "momentum": NaN,
+   "verdict": "Not enough data",
+   "n_up": 2,
+   "n_signals": 2,
+   "usage": 0.018,
+   "learning": 0.022,
+   "hiring": NaN,
+   "interest": NaN
+  }
+ ],
+ "verdict_counts": {
+  "WORLD": {
+   "Fading": 10,
+   "Genuinely growing": 3,
+   "Hype": 2,
+   "Quiet workhorse": 1,
+   "Not enough data": 1
+  },
+  "GB": {
+   "Hype": 7,
+   "Fading": 4,
+   "Genuinely growing": 3,
+   "Quiet workhorse": 2,
+   "Not enough data": 1
+  },
+  "US": {
+   "Fading": 10,
+   "Quiet workhorse": 3,
+   "Genuinely growing": 2,
+   "Hype": 1,
+   "Not enough data": 1
+  },
+  "IN": {
+   "Fading": 8,
+   "Genuinely growing": 3,
+   "Hype": 3,
+   "Not enough data": 2,
+   "Quiet workhorse": 1
+  }
+ },
+ "signal_agreement": {
+  "usage": {
+   "usage": 1.0,
+   "learning": 0.21,
+   "hiring": 0.67,
+   "interest": 0.1
+  },
+  "learning": {
+   "usage": 0.21,
+   "learning": 1.0,
+   "hiring": 0.55,
+   "interest": -0.38
+  },
+  "hiring": {
+   "usage": 0.67,
+   "learning": 0.55,
+   "hiring": 1.0,
+   "interest": -0.38
+  },
+  "interest": {
+   "usage": 0.1,
+   "learning": -0.38,
+   "hiring": -0.38,
+   "interest": 1.0
+  }
+ },
+ "trends_total_change_pct": {
+  "GB": -32.4,
+  "IN": -51.7,
+  "US": -21.9
+ },
+ "so_questions_fall_2019_2026_pct": 98.7,
+ "so_questions_jan_oct": {
+  "y2019": 1474916,
+  "y2022": 1129321,
+  "y2026": 19801
+ },
+ "hn_posts": {
+  "before": 8257,
+  "after": 3693
+ },
+ "backtest": {
+  "slope": 0.328,
+  "ci95": [
+   0.195,
+   0.451
+  ],
+  "n_obs": 131,
+  "n_langs": 17,
+  "oos_mean_hit_rate": 0.711,
+  "oos_mean_spearman": 0.493,
+  "oos_years_positive_spearman": 8,
+  "oos_years": 8
+ },
+ "survey_n": {
+  "2017": {
+   "GB": 3385,
+   "IN": 2865,
+   "US": 8906,
+   "WORLD": 36625
+  },
+  "2018": {
+   "GB": 5285,
+   "IN": 9657,
+   "US": 17694,
+   "WORLD": 78334
+  },
+  "2019": {
+   "GB": 5690,
+   "IN": 8844,
+   "US": 20769,
+   "WORLD": 87569
+  },
+  "2020": {
+   "GB": 3616,
+   "IN": 6884,
+   "US": 11633,
+   "WORLD": 57378
+  },
+  "2021": {
+   "GB": 4438,
+   "IN": 10283,
+   "US": 15133,
+   "WORLD": 82357
+  },
+  "2022": {
+   "GB": 4165,
+   "IN": 6493,
+   "US": 13448,
+   "WORLD": 70975
+  },
+  "2023": {
+   "GB": 5520,
+   "IN": 5520,
+   "US": 18509,
+   "WORLD": 87140
+  },
+  "2024": {
+   "GB": 3174,
+   "IN": 4058,
+   "US": 10869,
+   "WORLD": 59745
+  },
+  "2025": {
+   "GB": 1863,
+   "IN": 2020,
+   "US": 6655,
+   "WORLD": 31671
+  },
+  "2026": {
+   "GB": 920,
+   "IN": 689,
+   "US": 3283,
+   "WORLD": 13924
+  }
+ },
+ "adzuna_rows": 24,
+ "github_all_programming_pushers": {
+  "before": 7663345.5,
+  "after": 31110627.0
+ },
+ "github_check": [
+  {
+   "year": 2020,
+   "n": 16,
+   "spearman": 0.559,
+   "direction_hit_rate": 0.688
+  },
+  {
+   "year": 2021,
+   "n": 16,
+   "spearman": 0.556,
+   "direction_hit_rate": 0.688
+  },
+  {
+   "year": 2022,
+   "n": 16,
+   "spearman": 0.462,
+   "direction_hit_rate": 0.688
+  },
+  {
+   "year": 2023,
+   "n": 16,
+   "spearman": 0.356,
+   "direction_hit_rate": 0.688
+  },
+  {
+   "year": 2024,
+   "n": 16,
+   "spearman": 0.329,
+   "direction_hit_rate": 0.688
+  }
+ ]
+}
