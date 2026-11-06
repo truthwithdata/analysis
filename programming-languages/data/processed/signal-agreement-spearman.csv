@@ -1,0 +1,5 @@
+,usage,learning,hiring,interest
+usage,1.0,0.21,0.67,0.1
+learning,0.21,1.0,0.55,-0.38
+hiring,0.67,0.55,1.0,-0.38
+interest,0.1,-0.38,-0.38,1.0
