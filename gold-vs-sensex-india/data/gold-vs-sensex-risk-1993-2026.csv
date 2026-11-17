@@ -1,0 +1,4 @@
+asset,annualised_volatility_pct,max_drawdown_pct,drawdown_peak,drawdown_trough,recovered,longest_below_previous_peak_months,worst_12m_return_pct,share_of_12m_periods_negative_pct
+Gold (rupees),12.7,-25.1,1996-02,1999-07,2002-04,81,-18.0,23.0
+Sensex (price),19.4,-54.9,2007-12,2009-03,2010-10,57,-52.0,28.6
+Sensex with 1.25% dividends,19.4,-54.2,2007-12,2009-03,2010-09,57,-51.4,26.6

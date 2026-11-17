@@ -1,0 +1,10 @@
+period,from,to,gold_cagr_pct,sensex_price_cagr_pct,sensex_with_dividends_cagr_pct,winner_price_only,winner_with_dividends
+1 year,2025-10,2026-10,9.34,-12.01,-10.91,Gold,Gold
+3 years,2023-10,2026-10,34.98,3.86,5.16,Gold,Gold
+5 years,2021-10,2026-10,24.11,3.89,5.19,Gold,Gold
+10 years,2016-10,2026-10,16.58,10.08,11.45,Gold,Gold
+15 years,2011-10,2026-10,11.00,10.31,11.69,Gold,Sensex
+20 years,2006-10,2026-10,14.40,9.18,10.55,Gold,Gold
+25 years,2001-10,2026-10,14.39,13.73,15.16,Gold,Sensex
+30 years,1996-10,2026-10,11.85,11.04,12.43,Gold,Sensex
+since Apr 1993,1993-04,2026-10,11.32,11.01,12.39,Gold,Sensex
