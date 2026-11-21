@@ -1,0 +1,581 @@
+{
+ "from": "1993-04",
+ "to": "2026-10",
+ "months": 403,
+ "div_assumption_pct": 1.25,
+ "gold_10g_start": 3475.640060920778,
+ "gold_10g_end": 126061.80846637697,
+ "gold_multiple": 36.27009881828219,
+ "sensex_multiple": 33.036011519001995,
+ "sensexdiv_multiple": 50.086556792039964,
+ "full_gold_cagr": 11.315000782157792,
+ "full_sensex_cagr": 11.005095219941708,
+ "full_sensexdiv_cagr": 12.392658910190967,
+ "corr_monthly": -0.043313463482427254,
+ "corr_12m": -0.09437163079363088,
+ "real": {
+  "from": "1993-04",
+  "to": "2025-12",
+  "inflation_pct": 6.481039340374428,
+  "gold_real_pct": 4.79198066060591,
+  "sensex_price_real_pct": 5.010118945023012,
+  "sensex_div_real_pct": 6.322745431835819
+ },
+ "trailing": [
+  {
+   "period": "1 year",
+   "from": "2025-10",
+   "to": "2026-10",
+   "gold_cagr_pct": 9.3402333651035,
+   "sensex_price_cagr_pct": -12.009562246891136,
+   "sensex_with_dividends_cagr_pct": -10.909681774977276,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Gold"
+  },
+  {
+   "period": "3 years",
+   "from": "2023-10",
+   "to": "2026-10",
+   "gold_cagr_pct": 34.97801240134435,
+   "sensex_price_cagr_pct": 3.8641383664009155,
+   "sensex_with_dividends_cagr_pct": 5.162440095980925,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Gold"
+  },
+  {
+   "period": "5 years",
+   "from": "2021-10",
+   "to": "2026-10",
+   "gold_cagr_pct": 24.11419503104679,
+   "sensex_price_cagr_pct": 3.886755163945188,
+   "sensex_with_dividends_cagr_pct": 5.185339603494499,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Gold"
+  },
+  {
+   "period": "10 years",
+   "from": "2016-10",
+   "to": "2026-10",
+   "gold_cagr_pct": 16.57944657545647,
+   "sensex_price_cagr_pct": 10.077513082068347,
+   "sensex_with_dividends_cagr_pct": 11.453481995594196,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Gold"
+  },
+  {
+   "period": "15 years",
+   "from": "2011-10",
+   "to": "2026-10",
+   "gold_cagr_pct": 10.998126317509072,
+   "sensex_price_cagr_pct": 10.307795788669338,
+   "sensex_with_dividends_cagr_pct": 11.686643236027706,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Sensex"
+  },
+  {
+   "period": "20 years",
+   "from": "2006-10",
+   "to": "2026-10",
+   "gold_cagr_pct": 14.404574036539742,
+   "sensex_price_cagr_pct": 9.183378103002848,
+   "sensex_with_dividends_cagr_pct": 10.548170329290386,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Gold"
+  },
+  {
+   "period": "25 years",
+   "from": "2001-10",
+   "to": "2026-10",
+   "gold_cagr_pct": 14.392091253657924,
+   "sensex_price_cagr_pct": 13.733651308434446,
+   "sensex_with_dividends_cagr_pct": 15.15532194978988,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Sensex"
+  },
+  {
+   "period": "30 years",
+   "from": "1996-10",
+   "to": "2026-10",
+   "gold_cagr_pct": 11.84537413855069,
+   "sensex_price_cagr_pct": 11.04218765165703,
+   "sensex_with_dividends_cagr_pct": 12.430214997302723,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Sensex"
+  },
+  {
+   "period": "since Apr 1993",
+   "from": "1993-04",
+   "to": "2026-10",
+   "gold_cagr_pct": 11.315000782157792,
+   "sensex_price_cagr_pct": 11.005095219941708,
+   "sensex_with_dividends_cagr_pct": 12.392658910190967,
+   "winner_price_only": "Gold",
+   "winner_with_dividends": "Sensex"
+  }
+ ],
+ "wins": [
+  {
+   "horizon_years": 5,
+   "windows": 343,
+   "first_start": "1993-04",
+   "last_start": "2021-10",
+   "non_overlapping_windows": 6,
+   "gold_won_price_only_pct": 42.857142857142854,
+   "gold_won_vs_dividends_1_25_pct": 34.69387755102041,
+   "gold_won_vs_dividends_1_5_pct": 33.23615160349854,
+   "gold_median_cagr_pct": 10.98136279768125,
+   "sensex_div_median_cagr_pct": 12.487207798988532,
+   "gold_min_cagr_pct": -3.8184726773612843,
+   "gold_max_cagr_pct": 29.21950537269229,
+   "sensex_div_min_cagr_pct": -5.356901611860099,
+   "sensex_div_max_cagr_pct": 46.3306596045731,
+   "median_gap_gold_minus_sensex_div_pts": -2.330484327883553,
+   "gold_lost_to_inflation_pct": 32.732732732732735,
+   "sensex_div_lost_to_inflation_pct": 27.32732732732733
+  },
+  {
+   "horizon_years": 10,
+   "windows": 283,
+   "first_start": "1993-04",
+   "last_start": "2016-10",
+   "non_overlapping_windows": 3,
+   "gold_won_price_only_pct": 46.64310954063604,
+   "gold_won_vs_dividends_1_25_pct": 32.86219081272085,
+   "gold_won_vs_dividends_1_5_pct": 28.621908127208478,
+   "gold_median_cagr_pct": 10.8483529692871,
+   "sensex_div_median_cagr_pct": 13.712883189268998,
+   "gold_min_cagr_pct": 2.7345187352175504,
+   "gold_max_cagr_pct": 20.85327207425991,
+   "sensex_div_min_cagr_pct": 2.8205624112742633,
+   "sensex_div_max_cagr_pct": 22.242897776562188,
+   "median_gap_gold_minus_sensex_div_pts": -1.7121619604565819,
+   "gold_lost_to_inflation_pct": 19.047619047619047,
+   "sensex_div_lost_to_inflation_pct": 8.058608058608058
+  },
+  {
+   "horizon_years": 15,
+   "windows": 223,
+   "first_start": "1993-04",
+   "last_start": "2011-10",
+   "non_overlapping_windows": 2,
+   "gold_won_price_only_pct": 52.91479820627802,
+   "gold_won_vs_dividends_1_25_pct": 26.00896860986547,
+   "gold_won_vs_dividends_1_5_pct": 22.869955156950674,
+   "gold_median_cagr_pct": 11.682028821319745,
+   "sensex_div_median_cagr_pct": 13.090803967362795,
+   "gold_min_cagr_pct": 7.609870774081395,
+   "gold_max_cagr_pct": 15.122264403271313,
+   "sensex_div_min_cagr_pct": 6.938539434518409,
+   "sensex_div_max_cagr_pct": 19.207676549685203,
+   "median_gap_gold_minus_sensex_div_pts": -1.2914912373293,
+   "gold_lost_to_inflation_pct": 0.0,
+   "sensex_div_lost_to_inflation_pct": 0.0
+  },
+  {
+   "horizon_years": 20,
+   "windows": 163,
+   "first_start": "1993-04",
+   "last_start": "2006-10",
+   "non_overlapping_windows": 1,
+   "gold_won_price_only_pct": 28.834355828220858,
+   "gold_won_vs_dividends_1_25_pct": 15.337423312883436,
+   "gold_won_vs_dividends_1_5_pct": 12.883435582822086,
+   "gold_median_cagr_pct": 11.566928935695998,
+   "sensex_div_median_cagr_pct": 13.006519433355844,
+   "gold_min_cagr_pct": 8.565462807628489,
+   "gold_max_cagr_pct": 15.72468742463078,
+   "sensex_div_min_cagr_pct": 9.82823812782707,
+   "sensex_div_max_cagr_pct": 17.792113424867928,
+   "median_gap_gold_minus_sensex_div_pts": -2.5902445495646695,
+   "gold_lost_to_inflation_pct": 0.0,
+   "sensex_div_lost_to_inflation_pct": 0.0
+  }
+ ],
+ "risk": [
+  {
+   "asset": "Gold (rupees)",
+   "annualised_volatility_pct": 12.670097328679324,
+   "max_drawdown_pct": -25.109739050376756,
+   "drawdown_peak": "1996-02",
+   "drawdown_trough": "1999-07",
+   "recovered": "2002-04",
+   "longest_below_previous_peak_months": 81,
+   "worst_12m_return_pct": -17.970371370303894,
+   "share_of_12m_periods_negative_pct": 23.017902813299234
+  },
+  {
+   "asset": "Sensex (price)",
+   "annualised_volatility_pct": 19.398667634024275,
+   "max_drawdown_pct": -54.94476216902973,
+   "drawdown_peak": "2007-12",
+   "drawdown_trough": "2009-03",
+   "recovered": "2010-10",
+   "longest_below_previous_peak_months": 57,
+   "worst_12m_return_pct": -52.00904411868348,
+   "share_of_12m_periods_negative_pct": 28.644501278772378
+  },
+  {
+   "asset": "Sensex with 1.25% dividends",
+   "annualised_volatility_pct": 19.398667634024278,
+   "max_drawdown_pct": -54.23967751530003,
+   "drawdown_peak": "2007-12",
+   "drawdown_trough": "2009-03",
+   "recovered": "2010-09",
+   "longest_below_previous_peak_months": 57,
+   "worst_12m_return_pct": -51.409157170167006,
+   "share_of_12m_periods_negative_pct": 26.598465473145783
+  }
+ ],
+ "mix": [
+  {
+   "horizon_years": 10,
+   "gold_share_pct": 0,
+   "windows": 283,
+   "lump_median_cagr_pct": 13.712883189268998,
+   "lump_worst_cagr_pct": 2.8205624112742633,
+   "lump_p10_cagr_pct": 7.851715564579771,
+   "lump_median_max_drawdown_pct": -47.329214206222325,
+   "lump_worst_max_drawdown_pct": -54.23967751530006,
+   "sip_median_xirr_pct": 13.855507131337353,
+   "sip_worst_xirr_pct": -1.712486101513716,
+   "sip_p10_xirr_pct": 9.5869082684064,
+   "sip_best_xirr_pct": 28.49289165925176,
+   "sip_worst_start": "1993-05"
+  },
+  {
+   "horizon_years": 10,
+   "gold_share_pct": 10,
+   "windows": 283,
+   "lump_median_cagr_pct": 13.577774225953455,
+   "lump_worst_cagr_pct": 3.133324736655285,
+   "lump_p10_cagr_pct": 8.203802770394484,
+   "lump_median_max_drawdown_pct": -43.28308780492336,
+   "lump_worst_max_drawdown_pct": -47.092816412643,
+   "sip_median_xirr_pct": 14.002447552478381,
+   "sip_worst_xirr_pct": -0.8741952460452895,
+   "sip_p10_xirr_pct": 9.712167120187573,
+   "sip_best_xirr_pct": 27.20258688098357,
+   "sip_worst_start": "1993-05"
+  },
+  {
+   "horizon_years": 10,
+   "gold_share_pct": 20,
+   "windows": 283,
+   "lump_median_cagr_pct": 13.333102081789416,
+   "lump_worst_cagr_pct": 3.4014524155919545,
+   "lump_p10_cagr_pct": 8.585797177630946,
+   "lump_median_max_drawdown_pct": -38.722648072023844,
+   "lump_worst_max_drawdown_pct": -41.76642927481784,
+   "sip_median_xirr_pct": 14.258033814695247,
+   "sip_worst_xirr_pct": -0.10944397558853569,
+   "sip_p10_xirr_pct": 9.9084312382522,
+   "sip_best_xirr_pct": 25.866848227538497,
+   "sip_worst_start": "1993-04"
+  },
+  {
+   "horizon_years": 10,
+   "gold_share_pct": 30,
+   "windows": 283,
+   "lump_median_cagr_pct": 13.122963401178666,
+   "lump_worst_cagr_pct": 3.6252162941766475,
+   "lump_p10_cagr_pct": 8.827908959240581,
+   "lump_median_max_drawdown_pct": -33.597761652298686,
+   "lump_worst_max_drawdown_pct": -36.64404434025579,
+   "sip_median_xirr_pct": 14.415402545163147,
+   "sip_worst_xirr_pct": 0.5681641434395535,
+   "sip_p10_xirr_pct": 9.889528394789211,
+   "sip_best_xirr_pct": 24.664706879277677,
+   "sip_worst_start": "1993-04"
+  },
+  {
+   "horizon_years": 10,
+   "gold_share_pct": 50,
+   "windows": 283,
+   "lump_median_cagr_pct": 12.642115610391302,
+   "lump_worst_cagr_pct": 3.940087655940183,
+   "lump_p10_cagr_pct": 8.572476207958196,
+   "lump_median_max_drawdown_pct": -23.765660770220332,
+   "lump_worst_max_drawdown_pct": -25.986771821762723,
+   "sip_median_xirr_pct": 14.326959482587343,
+   "sip_worst_xirr_pct": 1.7776145348979644,
+   "sip_p10_xirr_pct": 8.98365819093246,
+   "sip_best_xirr_pct": 23.689171926120245,
+   "sip_worst_start": "1993-04"
+  },
+  {
+   "horizon_years": 10,
+   "gold_share_pct": 100,
+   "windows": 283,
+   "lump_median_cagr_pct": 10.8483529692871,
+   "lump_worst_cagr_pct": 2.7345187352175504,
+   "lump_p10_cagr_pct": 4.534503746937681,
+   "lump_median_max_drawdown_pct": -20.358029644430264,
+   "lump_worst_max_drawdown_pct": -25.109739050376767,
+   "sip_median_xirr_pct": 10.66556277796592,
+   "sip_worst_xirr_pct": 3.7444110092459515,
+   "sip_p10_xirr_pct": 5.500526228303445,
+   "sip_best_xirr_pct": 24.880138647945504,
+   "sip_worst_start": "2009-05"
+  },
+  {
+   "horizon_years": 15,
+   "gold_share_pct": 0,
+   "windows": 223,
+   "lump_median_cagr_pct": 13.090803967362795,
+   "lump_worst_cagr_pct": 6.938539434518409,
+   "lump_p10_cagr_pct": 10.795126618319792,
+   "lump_median_max_drawdown_pct": -54.23967751530003,
+   "lump_worst_max_drawdown_pct": -54.23967751530006,
+   "sip_median_xirr_pct": 14.189161479307677,
+   "sip_worst_xirr_pct": 8.177307631603837,
+   "sip_p10_xirr_pct": 11.871314671564674,
+   "sip_best_xirr_pct": 18.049120270597584,
+   "sip_worst_start": "2005-04"
+  },
+  {
+   "horizon_years": 15,
+   "gold_share_pct": 10,
+   "windows": 223,
+   "lump_median_cagr_pct": 13.45183518505426,
+   "lump_worst_cagr_pct": 7.784197085712696,
+   "lump_p10_cagr_pct": 11.285575035251002,
+   "lump_median_max_drawdown_pct": -46.29911536891855,
+   "lump_worst_max_drawdown_pct": -47.092816412643,
+   "sip_median_xirr_pct": 14.329734958939488,
+   "sip_worst_xirr_pct": 8.925059815810677,
+   "sip_p10_xirr_pct": 12.185748641574914,
+   "sip_best_xirr_pct": 18.39283594493474,
+   "sip_worst_start": "2005-04"
+  },
+  {
+   "horizon_years": 15,
+   "gold_share_pct": 20,
+   "windows": 223,
+   "lump_median_cagr_pct": 13.749978329155056,
+   "lump_worst_cagr_pct": 8.390495757887173,
+   "lump_p10_cagr_pct": 11.641707745611383,
+   "lump_median_max_drawdown_pct": -40.55347010984202,
+   "lump_worst_max_drawdown_pct": -41.76642927481785,
+   "sip_median_xirr_pct": 14.352572371855176,
+   "sip_worst_xirr_pct": 9.498777294885896,
+   "sip_p10_xirr_pct": 12.266793886484447,
+   "sip_best_xirr_pct": 18.576239709163545,
+   "sip_worst_start": "2005-05"
+  },
+  {
+   "horizon_years": 15,
+   "gold_share_pct": 30,
+   "windows": 223,
+   "lump_median_cagr_pct": 13.926986849659539,
+   "lump_worst_cagr_pct": 8.8456229618175,
+   "lump_p10_cagr_pct": 11.670215775403385,
+   "lump_median_max_drawdown_pct": -35.101998619580336,
+   "lump_worst_max_drawdown_pct": -36.64404434025579,
+   "sip_median_xirr_pct": 14.359858243558643,
+   "sip_worst_xirr_pct": 9.96418699227638,
+   "sip_p10_xirr_pct": 12.155009584036554,
+   "sip_best_xirr_pct": 18.685177384095887,
+   "sip_worst_start": "2005-05"
+  },
+  {
+   "horizon_years": 15,
+   "gold_share_pct": 50,
+   "windows": 223,
+   "lump_median_cagr_pct": 13.976488696121026,
+   "lump_worst_cagr_pct": 9.470252355757136,
+   "lump_p10_cagr_pct": 11.749983740225849,
+   "lump_median_max_drawdown_pct": -24.494287913461054,
+   "lump_worst_max_drawdown_pct": -25.986771821762723,
+   "sip_median_xirr_pct": 14.202763643388982,
+   "sip_worst_xirr_pct": 10.650915972093255,
+   "sip_p10_xirr_pct": 11.581409425999725,
+   "sip_best_xirr_pct": 18.730087374967407,
+   "sip_worst_start": "2005-05"
+  },
+  {
+   "horizon_years": 15,
+   "gold_share_pct": 100,
+   "windows": 223,
+   "lump_median_cagr_pct": 11.682028821319745,
+   "lump_worst_cagr_pct": 7.609870774081395,
+   "lump_p10_cagr_pct": 9.760362776670744,
+   "lump_median_max_drawdown_pct": -24.55091846068277,
+   "lump_worst_max_drawdown_pct": -25.109739050376767,
+   "sip_median_xirr_pct": 11.857223537325357,
+   "sip_worst_xirr_pct": 7.808026795368061,
+   "sip_p10_xirr_pct": 8.934307862558011,
+   "sip_best_xirr_pct": 18.625677340881353,
+   "sip_worst_start": "2007-09"
+  }
+ ],
+ "decades": [
+  {
+   "start": "1993-04",
+   "end": "2003-04",
+   "gold_cagr_pct": 3.6985077435950586,
+   "sensex_price_cagr_pct": 3.1928185424128674,
+   "sensex_with_dividends_cagr_pct": 4.4827287741930455
+  },
+  {
+   "start": "1994-04",
+   "end": "2004-04",
+   "gold_cagr_pct": 4.10069770759427,
+   "sensex_price_cagr_pct": 4.2831297325746975,
+   "sensex_with_dividends_cagr_pct": 5.586668854231869
+  },
+  {
+   "start": "1995-04",
+   "end": "2005-04",
+   "gold_cagr_pct": 4.307457162127459,
+   "sensex_price_cagr_pct": 6.630523089961993,
+   "sensex_with_dividends_cagr_pct": 7.963404628586512
+  },
+  {
+   "start": "1996-04",
+   "end": "2006-04",
+   "gold_cagr_pct": 7.340179245999012,
+   "sensex_price_cagr_pct": 12.508212003452556,
+   "sensex_with_dividends_cagr_pct": 13.91456465349572
+  },
+  {
+   "start": "1997-04",
+   "end": "2007-04",
+   "gold_cagr_pct": 8.7556628336934,
+   "sensex_price_cagr_pct": 13.831883360174713,
+   "sensex_with_dividends_cagr_pct": 15.254781902176905
+  },
+  {
+   "start": "1998-04",
+   "end": "2008-04",
+   "gold_cagr_pct": 11.515897063812087,
+   "sensex_price_cagr_pct": 14.757705390934571,
+   "sensex_with_dividends_cagr_pct": 16.19217670832125
+  },
+  {
+   "start": "1999-04",
+   "end": "2009-04",
+   "gold_cagr_pct": 13.890172611044704,
+   "sensex_price_cagr_pct": 12.194674700789676,
+   "sensex_with_dividends_cagr_pct": 13.59710813454953
+  },
+  {
+   "start": "2000-04",
+   "end": "2010-04",
+   "gold_cagr_pct": 15.362478450108474,
+   "sensex_price_cagr_pct": 13.680916923471731,
+   "sensex_with_dividends_cagr_pct": 15.101928385015118
+  },
+  {
+   "start": "2001-04",
+   "end": "2011-04",
+   "gold_cagr_pct": 18.3547027328798,
+   "sensex_price_cagr_pct": 18.794960659275194,
+   "sensex_with_dividends_cagr_pct": 20.279897667516124
+  },
+  {
+   "start": "2002-04",
+   "end": "2012-04",
+   "gold_cagr_pct": 19.1113924762502,
+   "sensex_price_cagr_pct": 17.551312040799182,
+   "sensex_with_dividends_cagr_pct": 19.020703441309173
+  },
+  {
+   "start": "2003-04",
+   "end": "2013-04",
+   "gold_cagr_pct": 17.924017724521345,
+   "sensex_price_cagr_pct": 20.041345774877662,
+   "sensex_with_dividends_cagr_pct": 21.541862597063634
+  },
+  {
+   "start": "2004-04",
+   "end": "2014-04",
+   "gold_cagr_pct": 16.044286386982833,
+   "sensex_price_cagr_pct": 14.523696447522493,
+   "sensex_with_dividends_cagr_pct": 15.955242653116542
+  },
+  {
+   "start": "2005-04",
+   "end": "2015-04",
+   "gold_cagr_pct": 14.903159227510198,
+   "sensex_price_cagr_pct": 16.003310387694135,
+   "sensex_with_dividends_cagr_pct": 17.453351767540305
+  },
+  {
+   "start": "2006-04",
+   "end": "2016-04",
+   "gold_cagr_pct": 11.657428732308173,
+   "sensex_price_cagr_pct": 8.094713084696426,
+   "sensex_with_dividends_cagr_pct": 9.445896998255133
+  },
+  {
+   "start": "2007-04",
+   "end": "2017-04",
+   "gold_cagr_pct": 11.103506101300997,
+   "sensex_price_cagr_pct": 8.243476487378288,
+   "sensex_with_dividends_cagr_pct": 9.596519943470527
+  },
+  {
+   "start": "2008-04",
+   "end": "2018-04",
+   "gold_cagr_pct": 9.19749332143156,
+   "sensex_price_cagr_pct": 7.689756436563755,
+   "sensex_with_dividends_cagr_pct": 9.035878392020802
+  },
+  {
+   "start": "2009-04",
+   "end": "2019-04",
+   "gold_cagr_pct": 7.215672646434834,
+   "sensex_price_cagr_pct": 13.579645420762576,
+   "sensex_with_dividends_cagr_pct": 14.999390988522098
+  },
+  {
+   "start": "2010-04",
+   "end": "2020-04",
+   "gold_cagr_pct": 9.640867748226011,
+   "sensex_price_cagr_pct": 5.66513085042224,
+   "sensex_with_dividends_cagr_pct": 6.985944986052495
+  },
+  {
+   "start": "2011-04",
+   "end": "2021-04",
+   "gold_cagr_pct": 7.171886796871241,
+   "sensex_price_cagr_pct": 9.643333915912056,
+   "sensex_with_dividends_cagr_pct": 11.013875589860934
+  },
+  {
+   "start": "2012-04",
+   "end": "2022-04",
+   "gold_cagr_pct": 5.6403234227258014,
+   "sensex_price_cagr_pct": 12.890479649640563,
+   "sensex_with_dividends_cagr_pct": 14.301610645261054
+  },
+  {
+   "start": "2013-04",
+   "end": "2023-04",
+   "gold_cagr_pct": 7.3268914594133205,
+   "sensex_price_cagr_pct": 12.276320269872464,
+   "sensex_with_dividends_cagr_pct": 13.67977427324587
+  },
+  {
+   "start": "2014-04",
+   "end": "2024-04",
+   "gold_cagr_pct": 9.51574454552182,
+   "sensex_price_cagr_pct": 12.599399032677304,
+   "sensex_with_dividends_cagr_pct": 14.006891520585762
+  },
+  {
+   "start": "2015-04",
+   "end": "2025-04",
+   "gold_cagr_pct": 13.874411195019176,
+   "sensex_price_cagr_pct": 10.61450879282968,
+   "sensex_with_dividends_cagr_pct": 11.997190152740057
+  },
+  {
+   "start": "2016-04",
+   "end": "2026-04",
+   "gold_cagr_pct": 18.258458503008157,
+   "sensex_price_cagr_pct": 11.653994027582426,
+   "sensex_with_dividends_cagr_pct": 13.049668952927185
+  }
+ ]
+}
