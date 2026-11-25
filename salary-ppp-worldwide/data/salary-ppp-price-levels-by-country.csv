@@ -1,0 +1,165 @@
+rank_furthest,iso3,country,region,income_group,wdi_year,ppp,fx,price_level,value_of_1000_usd,ppp_gdp,price_level_gdp,earnings_year,survey,median_monthly_lcu_ppp_year,median_monthly_usd_market,median_monthly_intl_usd_ppp
+1,EGY,"Egypt, Arab Rep.","Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025,7.7218,49.228,0.15686,6375.1,7.5837,0.15405,2025,LFS - Labour Force Sample Survey,6083.3,123.58,787.81
+2,NGA,Nigeria,Sub-Saharan Africa,Lower middle income,2025,318.06,1518.4,0.20947,4773.9,195.02,0.12844,2024,HS - General Household Survey,61505,40.507,193.38
+3,IND,India,South Asia,Lower middle income,2025,19.839,87.158,0.22762,4393.3,20.089,0.23048,2025,LFS - Periodic Labour Force Survey,15000,172.1,756.09
+4,PAK,Pakistan,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025,65.396,281.14,0.23261,4299.1,67.837,0.24129,2025,LFS - Labour Force Survey,25980,92.408,397.27
+5,BTN,Bhutan,South Asia,Lower middle income,2025,21.052,87.158,0.24154,4140.1,19.985,0.22929,2025,LFS - Labour Force Survey,25000,286.83,1187.5
+6,TZA,Tanzania,Sub-Saharan Africa,Lower middle income,2024,657.47,2597.9,0.25308,3951.4,732.99,0.28215,2025,LFS - Labour Force Survey,3.4558e+05,133.02,525.63
+7,NPL,Nepal,South Asia,Lower middle income,2025,35.27,139.12,0.25353,3944.3,33.898,0.24367,,,,,
+8,RWA,Rwanda,Sub-Saharan Africa,Low income,2025,372.71,1428.5,0.26091,3832.7,385.46,0.26984,2024,LFS - Labour Force Survey,37070,25.95,99.46
+9,LKA,Sri Lanka,South Asia,Upper middle income,2025,81.132,300.85,0.26968,3708.2,88.214,0.29321,2025,LFS - Labour Force Survey,46000,152.9,566.98
+10,BLR,Belarus,Europe & Central Asia,Upper middle income,2025,0.84861,3.0692,0.27649,3616.7,0.90877,0.2961,,,,,
+11,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,2025,3573.3,12579,0.28406,3520.4,3670.1,0.29176,,,,,
+12,UKR,Ukraine,Europe & Central Asia,Upper middle income,2025,11.865,41.689,0.2846,3513.7,12.935,0.31028,,,,,
+13,GMB,"Gambia, The",Sub-Saharan Africa,Low income,2024,19.389,67.661,0.28656,3489.7,16.954,0.25058,2018,LFS - Labour Force Survey,4875.5,72.058,251.46
+14,BGD,Bangladesh,South Asia,Lower middle income,2025,34.941,121.92,0.28658,3489.4,30.916,0.25357,2024,LFS - Labour Force Survey,15228,124.9,435.82
+15,LAO,Lao PDR,East Asia & Pacific,Lower middle income,2025,5870.1,20444,0.28713,3482.7,4577.5,0.2239,2022,LFS - Labour Force Survey,3.4819e+06,170.31,593.16
+16,MDG,Madagascar,Sub-Saharan Africa,Low income,2025,1315.4,4529.8,0.29039,3443.7,1390.3,0.30692,,,,,
+17,VNM,Viet Nam,East Asia & Pacific,Upper middle income,2024,7160.7,24165,0.29633,3374.7,6955,0.28781,2024,LFS - Labour Force Survey,8e+06,331.06,1117.2
+18,ETH,Ethiopia,Sub-Saharan Africa,Low income,2024,24.494,82.601,0.29653,3372.3,27.105,0.32814,,,,,
+19,IDN,Indonesia,East Asia & Pacific,Upper middle income,2025,5066,16478,0.30744,3252.7,4721,0.2865,2024,LFS - National Labour Force Survey,2.3466e+06,142.41,463.21
+20,DZA,Algeria,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025,41.736,131.61,0.31713,3153.3,42.846,0.32556,,,,,
+21,TJK,Tajikistan,Europe & Central Asia,Lower middle income,2025,3.1982,10.018,0.31925,3132.3,2.7689,0.2764,,,,,
+22,AZE,Azerbaijan,Europe & Central Asia,Upper middle income,2025,0.54295,1.7,0.31938,3131.1,0.48246,0.2838,,,,,
+23,THA,Thailand,East Asia & Pacific,Upper middle income,2025,10.606,32.883,0.32255,3100.3,10.092,0.30692,2025,LFS - Labour Force Survey,13000,395.34,1225.7
+24,TUN,Tunisia,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025,0.9803,2.9974,0.32705,3057.6,0.91601,0.30561,2019,LFS - National Population and Employment Survey,894.3,298.36,912.26
+25,BFA,Burkina Faso,Sub-Saharan Africa,Low income,2025,193.11,581.93,0.33184,3013.5,217.41,0.3736,2025,LFS - Labour Force Survey,50000,85.921,258.92
+26,ZMB,Zambia,Sub-Saharan Africa,Lower middle income,2025,8.3925,25.276,0.33204,3011.7,7.5614,0.29916,2024,LFS - Labour Force Survey,2847.7,112.67,339.32
+27,MLI,Mali,Sub-Saharan Africa,Low income,2025,193.45,581.93,0.33243,3008.2,198.24,0.34067,2024,LFS - Continuous Household Employment Survey,72295,124.23,373.72
+28,MNG,Mongolia,East Asia & Pacific,Upper middle income,2025,1180.7,3545.1,0.33305,3002.5,1211.7,0.34178,2025,LFS - Labour Force Survey,1.8e+06,507.74,1524.5
+29,MYS,Malaysia,East Asia & Pacific,Upper middle income,2025,1.4306,4.2844,0.33391,2994.8,1.355,0.31627,,,,,
+30,KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,2025,29.322,87.36,0.33564,2979.4,29.194,0.33418,,,,,
+31,BEN,Benin,Sub-Saharan Africa,Lower middle income,2025,196.18,581.93,0.33712,2966.3,200.34,0.34426,2022,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,63046,108.34,321.36
+32,LBY,Libya,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025,1.7925,5.3026,0.33804,2958.2,2.0707,0.39052,,,,,
+33,NER,Niger,Sub-Saharan Africa,Low income,2025,199.58,581.93,0.34296,2915.8,207.23,0.35612,2022,HIES - National Survey on Household Living Conditions,54035,92.854,270.74
+34,KEN,Kenya,Sub-Saharan Africa,Lower middle income,2025,44.984,129.3,0.3479,2874.4,43.547,0.33678,2019,HS - Continuous household survey,8458.9,65.419,188.04
+35,LSO,Lesotho,Sub-Saharan Africa,Lower middle income,2025,6.2329,17.889,0.34843,2870,6.1179,0.342,2024,LFS - Integrated Labour Force Survey,1459.8,81.604,234.2
+36,PHL,Philippines,East Asia & Pacific,Upper middle income,2025,20.534,57.505,0.35707,2800.6,19.07,0.33162,2025,LFS - Labour Force Survey,16425,285.63,799.91
+37,CMR,Cameroon,Sub-Saharan Africa,Lower middle income,2025,209.01,581.93,0.35916,2784.2,198.31,0.34078,,,,,
+38,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,2025,190.88,521.03,0.36634,2729.7,172.83,0.3317,,,,,
+39,KHM,Cambodia,East Asia & Pacific,Lower middle income,2025,1472.8,4013.4,0.36697,2725,1349.5,0.33624,2025,LFS - Labour Force Survey,1.04e+06,259.13,706.14
+40,RUS,Russian Federation,Europe & Central Asia,High income,2025,30.753,83.653,0.36763,2720.1,29.612,0.35399,,,,,
+41,NIC,Nicaragua,Latin America & Caribbean,Lower middle income,2025,13.534,36.624,0.36953,2706.1,12.519,0.34181,,,,,
+42,UGA,Uganda,Sub-Saharan Africa,Low income,2025,1337.1,3603,0.37111,2694.6,1271.5,0.35291,2021,LFS - National Labour Force Survey,2.9007e+05,80.509,216.94
+43,TGO,Togo,Sub-Saharan Africa,Lower middle income,2025,218.39,581.93,0.37529,2664.6,197.42,0.33924,2022,HIES - Living Standards Measurement Survey,56669,97.382,259.49
+44,PRY,Paraguay,Latin America & Caribbean,Upper middle income,2025,2874.6,7545.4,0.38097,2624.9,2627.1,0.34817,2025,HS - Continuous Permanent Household Survey,2.8e+06,371.08,974.06
+45,TCD,Chad,Sub-Saharan Africa,Low income,2025,222.76,581.93,0.3828,2612.3,204.95,0.3522,2022,HIES - Modular and Integrated Household Survey on Living Conditions,86984,149.47,390.48
+46,DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,2025,23.808,61.987,0.38409,2603.5,23.868,0.38506,2025,LFS - Continuous National Labour Force Survey,23988,386.98,1007.5
+47,GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,2025,224.85,581.93,0.38639,2588,198.58,0.34125,2022,HIES - Harmonized Survey on Household Living Conditions,67265,115.59,299.15
+48,FJI,Fiji,East Asia & Pacific,Upper middle income,2025,0.88945,2.299,0.38688,2584.8,0.93467,0.40655,2024,"LFS - Employment, Unemployment Survey",1067.5,464.34,1200.2
+49,SEN,Senegal,Sub-Saharan Africa,Lower middle income,2025,226.51,581.93,0.38925,2569.1,208.21,0.3578,2025,LFS - National Employment Survey,86667,148.93,382.61
+50,BOL,Bolivia,Latin America & Caribbean,Lower middle income,2025,2.6992,6.91,0.39063,2560,2.7633,0.39989,2025,LFS - Continuous Employment Survey,2800,405.21,1037.3
+51,CIV,Cote d'Ivoire,Sub-Saharan Africa,Lower middle income,2025,228.26,581.93,0.39224,2549.4,216.22,0.37156,2022,HIES - Living Standards Measurement Survey,87565,150.47,383.63
+52,MOZ,Mozambique,Sub-Saharan Africa,Low income,2024,25.091,63.905,0.39263,2546.9,24.576,0.38458,2022,HIES - Household Budget Survey,8727.5,136.57,347.84
+53,BWA,Botswana,Sub-Saharan Africa,Upper middle income,2025,5.3107,13.502,0.39332,2542.5,5.0741,0.37579,2024,HS - Multi-Topic Household Survey,2566.5,190.08,483.27
+54,GEO,Georgia,Europe & Central Asia,Upper middle income,2025,1.0875,2.7426,0.39651,2522,0.90351,0.32943,2023,HIES - Household Income and Expenditure Survey,840.18,306.34,772.58
+55,COG,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,2025,231.26,581.93,0.39741,2516.3,201.89,0.34693,,,,,
+56,AGO,Angola,Sub-Saharan Africa,Lower middle income,2025,364.1,911.99,0.39924,2504.8,322.97,0.35413,2024,LFS - Employment Survey,72097,79.055,198.01
+57,BRN,Brunei Darussalam,East Asia & Pacific,High income,2025,0.52704,1.3076,0.40306,2481,0.45602,0.34875,,,,,
+58,ARM,Armenia,Europe & Central Asia,Upper middle income,2025,158.53,387.01,0.40963,2441.2,148.12,0.38272,2023,HIES - Households Living Conditions Survey,1.4502e+05,374.72,914.78
+59,MKD,North Macedonia,Europe & Central Asia,Upper middle income,2025,22.392,54.655,0.40971,2440.8,20.453,0.37422,,,,,
+60,COL,Colombia,Latin America & Caribbean,Upper middle income,2025,1665.6,4053.1,0.41094,2433.5,1532.7,0.37816,2025,LFS - Integrated Household Survey,1.5e+06,370.08,900.58
+61,NAM,Namibia,Sub-Saharan Africa,Lower middle income,2025,7.3792,17.889,0.4125,2424.2,7.2773,0.40681,2018,LFS - Labour Force Survey,3727.5,208.37,505.14
+62,GHA,Ghana,Sub-Saharan Africa,Lower middle income,2025,5.25,12.557,0.4181,2391.8,4.7501,0.37829,2025,LFS - Labour Force Survey,1732,137.93,329.91
+63,SUR,Suriname,Latin America & Caribbean,Upper middle income,2025,15.63,37.26,0.41947,2384,11.629,0.3121,2022,HIES - Survey on Living Conditions,9620.4,258.2,615.53
+64,IRQ,Iraq,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025,545.99,1300,0.41999,2381,492.93,0.37918,,,,,
+65,MAR,Morocco,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025,3.9596,9.3503,0.42348,2361.4,3.9318,0.4205,,,,,
+66,ZAF,South Africa,Sub-Saharan Africa,Upper middle income,2025,7.74,17.889,0.43267,2311.2,7.4203,0.4148,2020,HIES - National Income Dynamic Survey,5373.5,300.39,694.26
+67,MUS,Mauritius,Sub-Saharan Africa,Upper middle income,2025,20.105,45.997,0.4371,2287.8,17.749,0.38588,2024,LFS - Continuous Multi-Purpose Household Survey,25918,563.48,1289.1
+68,ECU,Ecuador,Latin America & Caribbean,Upper middle income,2025,0.44151,1,0.44151,2265,0.42522,0.42522,2025,"LFS - National Survey on Employment, Unemployment and Underemployment",470,470,1064.5
+69,BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,2025,0.76903,1.7359,0.44301,2257.3,0.69765,0.40189,2025,LFS - Labour Force Survey,2000,1152.1,2600.7
+70,CAF,Central African Republic,Sub-Saharan Africa,Low income,2025,259.01,581.93,0.4451,2246.7,246.32,0.42328,,,,,
+71,TLS,Timor-Leste,East Asia & Pacific,Lower middle income,2025,0.44565,1,0.44565,2243.9,0.27882,0.27882,2021,LFS - Labour Force Survey,237.83,237.83,533.68
+72,GTM,Guatemala,Latin America & Caribbean,Upper middle income,2025,3.4322,7.6801,0.44689,2237.7,3.3345,0.43417,2025,LFS - Employment and Income Survey,3296,429.16,960.32
+73,JOR,Jordan,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,2025,0.31829,0.71,0.44829,2230.7,0.30059,0.42336,2024,LFS - Employment and Unemployment Survey,305.3,430,959.19
+74,TUR,Turkiye,Europe & Central Asia,Upper middle income,2025,17.744,39.455,0.44974,2223.5,16.204,0.41069,2025,LFS - Household Labour Force Survey,30000,760.36,1690.7
+75,GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,2024,275.68,606.35,0.45466,2199.5,248.74,0.41023,2023,HIES - National Household Survey,1.7497e+05,288.56,634.67
+76,BDI,Burundi,Sub-Saharan Africa,Low income,2025,1344.6,2943.1,0.45687,2188.8,999.61,0.33964,,,,,
+77,BRA,Brazil,Latin America & Caribbean,Upper middle income,2025,2.5815,5.5873,0.46203,2164.4,2.5544,0.45718,2025,HS - Continuous National Household Sample Survey,2200,393.75,852.22
+78,BGR,Bulgaria,Europe & Central Asia,High income,2025,0.81092,1.7352,0.46734,2139.8,0.79349,0.45729,2025,HIES - EU Statistics on Income and Living Conditions,2090.6,1204.8,2578.1
+79,SLV,El Salvador,Latin America & Caribbean,Upper middle income,2025,0.46885,1,0.46885,2132.9,0.40895,0.40895,2025,HS - Multi-purpose Household Survey,433.33,433.33,924.25
+80,GUY,Guyana,Latin America & Caribbean,High income,2025,97.805,208.5,0.46909,2131.8,69.033,0.33109,2024,LFS - Labour Force Survey,1.24e+05,594.7,1267.8
+81,OMN,Oman,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025,0.18186,0.3845,0.47299,2114.2,0.18134,0.47162,,,,,
+82,CHN,China,East Asia & Pacific,Upper middle income,2025,3.4596,7.1898,0.48117,2078.3,3.3977,0.47257,,,,,
+83,GAB,Gabon,Sub-Saharan Africa,Upper middle income,2025,280.85,581.93,0.48262,2072,216.42,0.3719,,,,,
+84,HND,Honduras,Latin America & Caribbean,Lower middle income,2025,12.617,25.953,0.48615,2057,11.864,0.45714,2025,HS - Continuous Multi-Purpose Household Survey,9000,346.78,713.32
+85,ROU,Romania,Europe & Central Asia,High income,2025,2.1805,4.4705,0.48776,2050.2,1.9797,0.44283,2025,HIES - EU Statistics on Income and Living Conditions,6940,1552.4,3182.7
+86,BHR,Bahrain,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025,0.18346,0.376,0.48793,2049.5,0.16204,0.43096,,,,,
+87,MNE,Montenegro,Europe & Central Asia,Upper middle income,2025,0.43895,0.88714,0.49479,2021.1,0.37017,0.41726,,,,,
+88,PAN,Panama,Latin America & Caribbean,High income,2025,0.49671,1,0.49671,2013.3,0.45077,0.45077,2025,LFS - Labour Market Survey,700,700,1409.3
+89,DJI,Djibouti,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025,88.549,177.72,0.49825,2007,82.124,0.46209,,,,,
+90,SAU,Saudi Arabia,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025,1.8707,3.75,0.49886,2004.6,1.7553,0.46808,,,,,
+91,MDA,Moldova,Europe & Central Asia,Upper middle income,2025,8.7729,17.378,0.50484,1980.8,7.4898,0.431,2025,LFS - Labour Force Survey,7200,414.32,820.7
+92,SRB,Serbia,Europe & Central Asia,Upper middle income,2025,52.93,103.97,0.50906,1964.4,46.797,0.45008,2025,HIES - Survey on Income and living Conditions,1.3998e+05,1346.3,2644.6
+93,CHL,Chile,Latin America & Caribbean,High income,2025,486.88,951.33,0.51179,1953.9,453.19,0.47637,2024,HIES - Supplemental Income Survey,7.2949e+05,766.81,1498.3
+94,PER,Peru,Latin America & Caribbean,Upper middle income,2025,1.927,3.5671,0.54023,1851.1,1.8359,0.51469,2025,"LFS - Permanent Employment Survey, National",1520,426.12,788.78
+95,CPV,Cabo Verde,Sub-Saharan Africa,Upper middle income,2025,52.98,97.863,0.54136,1847.2,46.629,0.47648,,,,,
+96,ALB,Albania,Europe & Central Asia,Upper middle income,2025,47.118,86.803,0.54281,1842.3,39.98,0.46059,,,,,
+97,BLZ,Belize,Latin America & Caribbean,Upper middle income,2025,1.0876,2,0.54381,1838.9,1.0511,0.52556,2019,LFS - Labour Force Survey,1293.9,646.93,1189.6
+98,POL,Poland,Europe & Central Asia,High income,2025,2.0632,3.7605,0.54863,1822.7,1.9696,0.52374,2025,HIES - EU Statistics on Income and Living Conditions,7542,2005.6,3655.5
+99,TTO,Trinidad and Tobago,Latin America & Caribbean,High income,2025,3.8409,6.7489,0.56911,1757.1,3.4483,0.51095,,,,,
+100,SYC,Seychelles,Sub-Saharan Africa,High income,2025,8.4503,14.726,0.57385,1742.6,7.988,0.54246,,,,,
+101,DMA,Dominica,Latin America & Caribbean,Upper middle income,2025,1.558,2.7,0.57702,1733,1.3063,0.48382,,,,,
+102,HUN,Hungary,Europe & Central Asia,High income,2025,204.54,353.14,0.57921,1726.5,183.58,0.51984,2025,HIES - EU Statistics on Income and Living Conditions,4.0314e+05,1141.6,1971
+103,COM,Comoros,Sub-Saharan Africa,Lower middle income,2025,253.73,435.38,0.58279,1715.9,211.66,0.48616,2021,LFS - National Survey on Employment and the Informal Sector,99209,227.87,391
+104,MEX,Mexico,Latin America & Caribbean,Upper middle income,2025,11.309,19.238,0.58785,1701.1,10.329,0.53692,2025,LFS - National Occupation and Employment Survey,8764.3,455.58,775
+105,HRV,Croatia,Europe & Central Asia,High income,2025,0.52078,0.88497,0.58847,1699.3,0.47081,0.53201,2025,HIES - EU Statistics on Income and Living Conditions,1836.4,2075.1,3526.3
+106,LCA,St. Lucia,Latin America & Caribbean,Upper middle income,2025,1.5947,2.7,0.59063,1693.1,1.3885,0.51426,,,,,
+107,KWT,Kuwait,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025,0.18319,0.30645,0.59776,1672.9,0.17536,0.57223,,,,,
+108,MAC,"Macao SAR, China",East Asia & Pacific,High income,2025,4.9469,8.0298,0.61606,1623.2,4.4477,0.5539,,,,,
+109,JAM,Jamaica,Latin America & Caribbean,Upper middle income,2025,98.242,159.1,0.6175,1619.4,95.795,0.60212,,,,,
+110,GRD,Grenada,Latin America & Caribbean,Upper middle income,2025,1.668,2.7,0.61777,1618.7,1.5314,0.56717,,,,,
+111,KOR,"Korea, Rep.",East Asia & Pacific,High income,2025,880.12,1422.4,0.61874,1616.2,816.33,0.57389,,,,,
+112,LTU,Lithuania,Europe & Central Asia,High income,2025,0.54962,0.88497,0.62106,1610.1,0.51317,0.57987,2025,HIES - EU Statistics on Income and Living Conditions,1938.7,2190.7,3527.4
+113,MDV,Maldives,South Asia,Upper middle income,2025,9.5743,15.416,0.62107,1610.1,7.8899,0.51181,2025,LFS - Labour Force Survey,11000,713.56,1148.9
+114,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,2025,1.6781,2.7,0.62152,1609,1.4876,0.55097,,,,,
+115,LVA,Latvia,Europe & Central Asia,High income,2025,0.55212,0.88497,0.62389,1602.8,0.5047,0.5703,2025,HIES - EU Statistics on Income and Living Conditions,1922.9,2172.8,3482.7
+116,KIR,Kiribati,East Asia & Pacific,Lower middle income,2025,0.96913,1.552,0.62444,1601.4,1.0088,0.64997,2023,HIES - Household Income and Expenditure Survey,469.25,302.35,484.2
+117,CRI,Costa Rica,Latin America & Caribbean,High income,2025,314.54,503.5,0.62471,1600.7,297.35,0.59057,2025,LFS - Continuous Employment Survey,4.5e+05,893.75,1430.7
+118,SVK,Slovak Republic,Europe & Central Asia,High income,2025,0.56575,0.88497,0.63929,1564.2,0.51229,0.57888,2025,HIES - EU Statistics on Income and Living Conditions,2008.7,2269.8,3550.5
+119,PRT,Portugal,Europe & Central Asia,High income,2025,0.57471,0.88497,0.64942,1539.8,0.53422,0.60366,2025,LFS - Employment Survey,1050,1186.5,1827
+120,LBN,Lebanon,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2025,58470,89500,0.6533,1530.7,,,,,,,
+121,GRC,Greece,Europe & Central Asia,High income,2025,0.58005,0.88497,0.65545,1525.7,0.52687,0.59536,2025,HIES - EU Statistics on Income and Living Conditions,1739.3,1965.4,2998.6
+122,CYP,Cyprus,Europe & Central Asia,High income,2025,0.59225,0.88497,0.66923,1494.2,0.57262,0.64705,2025,HIES - EU Statistics on Income and Living Conditions,2281.1,2577.5,3851.5
+123,CZE,Czechia,Europe & Central Asia,High income,2025,14.658,21.882,0.66985,1492.9,12.993,0.5938,2025,HIES - EU Statistics on Income and Living Conditions,53773,2457.4,3668.6
+124,SVN,Slovenia,Europe & Central Asia,High income,2025,0.5928,0.88497,0.66986,1492.9,0.55831,0.63088,2025,HIES - EU Statistics on Income and Living Conditions,2823.8,3190.9,4763.5
+125,PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,2025,2.7619,4.1227,0.66992,1492.7,2.3872,0.57904,,,,,
+126,WSM,Samoa,East Asia & Pacific,Upper middle income,2025,1.8817,2.7915,0.67408,1483.5,1.7541,0.62839,2022,LFS - Labour Force Survey,1268.8,454.54,674.3
+127,STP,Sao Tome and Principe,Sub-Saharan Africa,Lower middle income,2025,14.699,21.745,0.67596,1479.4,13.867,0.63772,,,,,
+128,ESP,Spain,Europe & Central Asia,High income,2025,0.60786,0.88497,0.68687,1455.9,0.57099,0.64521,2025,HIES - EU Statistics on Income and Living Conditions,2648.5,2992.8,4357.1
+129,ARE,United Arab Emirates,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025,2.527,3.6725,0.68808,1453.3,,,,,,,
+130,MLT,Malta,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025,0.61036,0.88497,0.6897,1449.9,0.58712,0.66344,2021,HIES - EU Statistics on Income and Living Conditions,2769.5,3129.5,4537.5
+131,JPN,Japan,East Asia & Pacific,High income,2025,103.34,149.66,0.69049,1448.3,97.08,0.64868,,,,,
+132,URY,Uruguay,Latin America & Caribbean,High income,2025,29.855,41.191,0.7248,1379.7,27.108,0.65811,2024,LFS - Continuous Household Survey Implantation,41365,1004.2,1385.5
+133,ITA,Italy,Europe & Central Asia,High income,2025,0.64482,0.88497,0.72864,1372.4,0.61028,0.6896,2025,HIES - EU Statistics on Income and Living Conditions,3123.4,3529.4,4843.8
+134,HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,2025,5.7676,7.7971,0.73971,1351.9,5.5246,0.70854,,,,,
+135,QAT,Qatar,"Middle East, North Africa, Afghanistan & Pakistan",High income,2024,2.7555,3.64,0.757,1321,2.1742,0.5973,,,,,
+136,EST,Estonia,Europe & Central Asia,High income,2025,0.67174,0.88497,0.75906,1317.4,0.58456,0.66054,2025,HIES - EU Statistics on Income and Living Conditions,2431.5,2747.5,3619.7
+137,TON,Tonga,East Asia & Pacific,Upper middle income,2025,1.8769,2.4105,0.77861,1284.3,1.8079,0.75001,2023,LFS - Labour Force Survey,1411.2,585.41,751.87
+138,SGP,Singapore,East Asia & Pacific,High income,2025,1.0238,1.3075,0.78306,1277,0.79089,0.60491,,,,,
+139,ATG,Antigua and Barbuda,Latin America & Caribbean,High income,2025,2.1915,2.7,0.81166,1232,1.8701,0.69265,2023,LFS - Labour Force Survey,2691.3,996.78,1228.1
+140,DEU,Germany,Europe & Central Asia,High income,2025,0.71888,0.88497,0.81233,1231,0.70998,0.80227,2022,HIES - EU Statistics on Income and Living Conditions,4177.9,4721,5811.7
+141,FRA,France,Europe & Central Asia,High income,2025,0.7325,0.88497,0.82771,1208.1,0.67762,0.7657,2025,LFS - Employment Survey,2000,2260,2730.4
+142,SMR,San Marino,Europe & Central Asia,High income,2025,0.73598,0.88714,0.82961,1205.4,,,,,,,
+143,AUT,Austria,Europe & Central Asia,High income,2025,0.75035,0.88497,0.84789,1179.4,0.72536,0.81964,2025,HIES - EU Statistics on Income and Living Conditions,4835.4,5464,6444.2
+144,NLD,Netherlands,Europe & Central Asia,High income,2025,0.76734,0.88497,0.86709,1153.3,0.74677,0.84384,2025,HIES - EU Statistics on Income and Living Conditions,5092.3,5754.2,6636.2
+145,BEL,Belgium,Europe & Central Asia,High income,2025,0.77176,0.88497,0.87207,1146.7,0.71994,0.81352,2025,HIES - EU Statistics on Income and Living Conditions,5779.6,6530.8,7488.8
+146,NZL,New Zealand,East Asia & Pacific,High income,2025,1.5291,1.7201,0.88895,1124.9,1.473,0.85632,,,,,
+147,CAN,Canada,North America,High income,2025,1.2605,1.3981,0.90156,1109.2,1.1667,0.83447,2025,LFS - Labour Force Survey,5026.7,3595.3,3987.9
+148,SWE,Sweden,Europe & Central Asia,High income,2025,8.889,9.8207,0.90513,1104.8,8.5485,0.87046,2025,HIES - EU Statistics on Income and Living Conditions,43125,4391.2,4851.5
+149,FIN,Finland,Europe & Central Asia,High income,2025,0.80201,0.88497,0.90626,1103.4,0.75419,0.85223,2025,HIES - EU Statistics on Income and Living Conditions,4448.5,5026.7,5546.6
+150,SLB,Solomon Islands,East Asia & Pacific,Lower middle income,2025,7.6478,8.3268,0.91845,1088.8,6.2316,0.74838,,,,,
+151,GBR,United Kingdom,Europe & Central Asia,High income,2025,0.70153,0.75947,0.9237,1082.6,0.67713,0.89158,2025,LFS - Labour Force Survey,2708.3,3566.1,3860.6
+152,AUS,Australia,East Asia & Pacific,High income,2025,1.4646,1.552,0.94368,1059.7,1.3989,0.90138,2021,"HIES - Household, Income and Labour Dynamics Survey",5973.1,3848.6,4078.3
+153,NOR,Norway,Europe & Central Asia,High income,2025,10.001,10.396,0.96205,1039.4,9.4517,0.90918,2025,HIES - EU Statistics on Income and Living Conditions,61281,5894.7,6127.3
+154,PLW,Palau,East Asia & Pacific,High income,2025,0.96332,1,0.96332,1038.1,0.84733,0.84733,2023,HIES - Household Income and Expenditure Survey,846.09,846.09,878.3
+155,LUX,Luxembourg,Europe & Central Asia,High income,2025,0.873,0.88497,0.98648,1013.7,0.83245,0.94066,2025,HIES - EU Statistics on Income and Living Conditions,6633.9,7496.2,7598.9
+156,USA,United States,North America,High income,2025,1,1,1,1000,1,1,2025,LFS - Current Population Survey,4480.7,4480.7,4480.7
+157,VUT,Vanuatu,East Asia & Pacific,Lower middle income,2025,122.24,120.32,1.0159,984.34,107.39,0.8925,,,,,
+158,IRL,Ireland,Europe & Central Asia,High income,2025,0.90396,0.88497,1.0215,978.99,0.75089,0.84849,2025,HIES - EU Statistics on Income and Living Conditions,3998.7,4518.4,4423.5
+159,HTI,Haiti,Latin America & Caribbean,Lower middle income,2025,133.53,130.63,1.0223,978.23,112.36,0.86017,,,,,
+160,DNK,Denmark,Europe & Central Asia,High income,2025,6.9217,6.6218,1.0453,956.68,6.1247,0.92492,2025,HIES - EU Statistics on Income and Living Conditions,42900,6478.6,6198
+161,ISR,Israel,"Middle East, North Africa, Afghanistan & Pakistan",High income,2025,3.6558,3.4519,1.0591,944.23,3.4877,1.0104,,,,,
+162,BHS,"Bahamas, The",Latin America & Caribbean,High income,2025,1.0896,1,1.0896,917.74,,,2024,LFS - Labour Force & Household Survey,1718.9,1718.9,1577.5
+163,CHE,Switzerland,Europe & Central Asia,High income,2025,1.0655,0.83136,1.2817,780.22,0.93075,1.1196,2025,LFS - Labour Force Survey,5989,7203.9,5620.6
+164,ISL,Iceland,Europe & Central Asia,High income,2025,166.6,128.44,1.2971,770.96,151.37,1.1785,2020,HIES - EU Statistics on Income and Living Conditions,1.0447e+06,8133.6,6270.7

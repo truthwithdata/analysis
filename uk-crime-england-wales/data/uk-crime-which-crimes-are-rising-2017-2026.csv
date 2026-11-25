@@ -1,0 +1,12 @@
+offence,csew_change_pct,csew_significant,csew_latest_thousands,csew_base_thousands,csew_change_vs_1995_pct,csew_change_1y_pct,csew_change_1y_significant,csew_direction,verdict,police_base_period,police_base,police_latest,police_change_pct,police_peak,police_peak_period,police_change_1y_pct,police_direction
+Fraud,33.6,True,4534.0,3395.0,,11.4,True,up,Rising: the survey shows a real increase,,,,,,,,
+Theft from outside homes and other household theft,41.8,True,833.0,588.0,-46.5,26.9,True,up,Rising: the survey shows a real increase,,,,,,,,
+Shoplifting,,,,,,,,,Rising in police records (no survey measure),YE Mar 2017,370289.0,519516.0,40.3,530348.0,YE Mar 2025,-2.0,up
+"Theft from the person (pickpocketing, snatches)",-7.2,False,344.0,370.0,-49.4,-25.6,False,no clear change,No clear change in the survey; police records up,YE Mar 2017,88634.0,115891.0,30.8,151059.0,YE Mar 2025,-20.4,up
+Violence,-34.5,True,939.0,1432.0,-79.0,-17.3,False,down,Falling in the survey; police records up (recording and reporting),YE Mar 2017,1158105.0,1968215.0,70.0,2108706.0,YE Mar 2023,1.3,up
+Robbery,-58.1,True,54.0,129.0,-83.2,-16.6,False,down,Falling in the survey; police records up (recording and reporting),YE Mar 2017,59418.0,88282.0,48.6,110271.0,YE Mar 2003,9.7,up
+Domestic / residential burglary,-42.6,True,373.0,650.0,-84.1,-0.8,False,down,Falling on both measures,YE Mar 2018,309769.0,153229.0,-50.5,309769.0,YE Mar 2018,-4.9,down
+Vehicle theft,-22.8,True,608.0,787.0,-85.9,-6.4,False,down,Falling on both measures,YE Mar 2017,407514.0,312231.0,-23.4,1074659.0,YE Mar 2003,-6.7,down
+Bicycle theft,-33.4,True,194.0,292.0,-70.4,5.0,False,down,Falling on both measures,YE Mar 2017,94874.0,56256.0,-40.7,115902.0,YE Mar 2012,-4.6,down
+Criminal damage,-43.9,True,656.0,1169.0,-80.6,11.8,False,down,Falling on both measures,YE Mar 2017,565059.0,457556.0,-19.0,1209912.0,YE Mar 2004,-0.4,down
+"Computer misuse (hacking, viruses)",-53.7,True,817.0,1764.0,,23.1,True,down,Falling: the survey shows a real decrease,,,,,,,,
