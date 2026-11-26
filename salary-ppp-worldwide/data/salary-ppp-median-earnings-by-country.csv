@@ -1,0 +1,112 @@
+iso3,survey,year,coverage_note,median_monthly_lcu,currency_note,eur_converted,median_lcu_survey_year,unit_check,uprate,median_monthly_lcu_ppp_year,wdi_year,median_monthly_usd_market,median_monthly_intl_usd_ppp,note,country
+LUX,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,6634,LUX - Euro (EUR),False,6634,1,1,6634,2025,7496,7599,,Luxembourg
+BEL,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,5780,BEL - Euro (EUR),False,5780,1,1,5780,2025,6531,7489,,Belgium
+NLD,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,5092,NLD - Euro (EUR),False,5092,1,1,5092,2025,5754,6636,,Netherlands
+AUT,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,4835,AUT - Euro (EUR),False,4835,1,1,4835,2025,5464,6444,,Austria
+ISL,HIES - EU Statistics on Income and Living Conditions,2020,Age coverage - minimum age: 16 years old,4983,ISL - Euro (EUR),True,7.708e+05,1,1.355,1.045e+06,2025,8134,6271,,Iceland
+DNK,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,5733,DNK - Euro (EUR),True,4.29e+04,1,1,4.29e+04,2025,6479,6198,,Denmark
+NOR,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,5217,NOR - Euro (EUR),True,6.128e+04,1,1,6.128e+04,2025,5895,6127,,Norway
+DEU,HIES - EU Statistics on Income and Living Conditions,2022,Age coverage - minimum age: 16 years old,3774,DEU - Euro (EUR),False,3774,1,1.107,4178,2025,4721,5812,,Germany
+CHE,LFS - Labour Force Survey,2025,,5989,CHE - Swiss franc (CHF),False,5989,1,1,5989,2025,7204,5621,,Switzerland
+FIN,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,4448,FIN - Euro (EUR),False,4448,1,1,4448,2025,5027,5547,,Finland
+SWE,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,3886,SWE - Euro (EUR),True,4.312e+04,1,1,4.312e+04,2025,4391,4851,,Sweden
+ITA,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,3123,ITA - Euro (EUR),False,3123,1,1,3123,2025,3529,4844,,Italy
+SVN,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,2824,SVN - Euro (EUR),False,2824,1,1,2824,2025,3191,4764,,Slovenia
+MLT,HIES - EU Statistics on Income and Living Conditions,2021,Age coverage - minimum age: 16 years old,2386,MLT - Euro (EUR),False,2386,1,1.161,2770,2025,3130,4538,,Malta
+USA,LFS - Current Population Survey,2025,Repository: Annual estimates for 2025 are 11-month averages that exclude October. Data for October 2025 were not collected due to the federal government shutdown | Age coverage - minimum age: 16 years old,4481,USA - United States dollar (USD),False,4481,1,1,4481,2025,4481,4481,,United States
+IRL,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,3999,IRL - Euro (EUR),False,3999,1,1,3999,2025,4518,4423,,Ireland
+ESP,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,2649,ESP - Euro (EUR),False,2649,1,1,2649,2025,2993,4357,,Spain
+AUS,"HIES - Household, Income and Labour Dynamics Survey",2021,,5000,AUS - Australian dollar (AUD),False,5000,1,1.195,5973,2025,3849,4078,,Australia
+CAN,LFS - Labour Force Survey,2025,,5027,CAN - Canadian Dollar (CAD),False,5027,1,1,5027,2025,3595,3988,,Canada
+GBR,LFS - Labour Force Survey,2025,,2708,GBR - British pound (GBP),False,2708,1,1,2708,2025,3566,3861,,United Kingdom
+CYP,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,2281,CYP - Euro (EUR),False,2281,1,1,2281,2025,2578,3851,,Cyprus
+CZE,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,2175,CZE - Euro (EUR),True,5.377e+04,1,1,5.377e+04,2025,2457,3669,,Czechia
+POL,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,1775,POL - Euro (EUR),True,7542,1,1,7542,2025,2006,3656,,Poland
+EST,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,2431,EST - Euro (EUR),False,2431,1,1,2431,2025,2748,3620,,Estonia
+SVK,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,2009,SVK - Euro (EUR),False,2009,1,1,2009,2025,2270,3550,,Slovak Republic
+LTU,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,1939,LTU - Euro (EUR),False,1939,1,1,1939,2025,2191,3527,,Lithuania
+HRV,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,1836,HRV - Euro (EUR),False,1836,1,1,1836,2025,2075,3526,,Croatia
+LVA,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,1923,LVA - Euro (EUR),False,1923,1,1,1923,2025,2173,3483,,Latvia
+ROU,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,1374,ROU - Euro (EUR),True,6940,1,1,6940,2025,1552,3183,,Romania
+GRC,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,1739,GRC - Euro (EUR),False,1739,1,1,1739,2025,1965,2999,,Greece
+FRA,LFS - Employment Survey,2025,,2000,FRA - Euro (EUR),False,2000,1,1,2000,2025,2260,2730,,France
+SRB,HIES - Survey on Income and living Conditions,2025,Age coverage - minimum age: 16 years old,1191,SRB - Euro (EUR),True,1.4e+05,1,1,1.4e+05,2025,1346,2645,,Serbia
+BIH,LFS - Labour Force Survey,2025,,2000,BIH - Marka (BAM),False,2000,1,1,2000,2025,1152,2601,,Bosnia and Herzegovina
+BGR,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,1066,BGR - Euro (EUR),True,2091,1,1,2091,2025,1205,2578,,Bulgaria
+HUN,HIES - EU Statistics on Income and Living Conditions,2025,Age coverage - minimum age: 16 years old,1010,HUN - Euro (EUR),True,4.031e+05,1,1,4.031e+05,2025,1142,1971,,Hungary
+PRT,LFS - Employment Survey,2025,,1050,PRT - Euro (EUR),False,1050,1,1,1050,2025,1186,1827,,Portugal
+TUR,LFS - Household Labour Force Survey,2025,,3e+04,TUR - Turkish lira (TRY),False,3e+04,1,1,3e+04,2025,760.4,1691,,Turkiye
+BHS,LFS - Labour Force & Household Survey,2024,,1700,BHS - Bahamian dollar (BSD),False,1700,1,1.011,1719,2025,1719,1577,,"Bahamas, The"
+MNG,LFS - Labour Force Survey,2025,,1.8e+06,MNG - Tögrög (MNT),False,1.8e+06,1,1,1.8e+06,2025,507.7,1524,,Mongolia
+CHL,HIES - Supplemental Income Survey,2024,,7e+05,CHL - Chilean peso (CLP),False,7e+05,1,1.042,7.295e+05,2025,766.8,1498,,Chile
+CRI,LFS - Continuous Employment Survey,2025,,4.5e+05,CRI - Colon (CRC),False,4.5e+05,1,1,4.5e+05,2025,893.7,1431,,Costa Rica
+PAN,LFS - Labour Market Survey,2025,Data reference period: October,700,PAN - Balboa (PAB),False,700,1,1,700,2025,700,1409,,Panama
+URY,LFS - Continuous Household Survey Implantation,2024,,3.953e+04,URY - Uruguayan peso (UYU),False,3.953e+04,1,1.047,4.137e+04,2025,1004,1386,,Uruguay
+MUS,LFS - Continuous Multi-Purpose Household Survey,2024,Age coverage - minimum age: 16 years old,2.5e+04,MUS - Mauritian rupee (MUR),False,2.5e+04,1,1.037,2.592e+04,2025,563.5,1289,,Mauritius
+GUY,LFS - Labour Force Survey,2024,,1.2e+05,GUY - Guyanese dollar (GYD),False,1.2e+05,1,1.033,1.24e+05,2025,594.7,1268,,Guyana
+ATG,LFS - Labour Force Survey,2023,,2500,ATG - East Caribbean dollar (XCD),False,2500,1,1.077,2691,2025,996.8,1228,,Antigua and Barbuda
+THA,LFS - Labour Force Survey,2025,,1.3e+04,THA - Baht (THB),False,1.3e+04,1,1,1.3e+04,2025,395.3,1226,,Thailand
+FJI,"LFS - Employment, Unemployment Survey",2024,,1082,FJI - Fijian dollar (FJD),False,1082,1,0.9862,1068,2025,464.3,1200,,Fiji
+BLZ,LFS - Labour Force Survey,2019,,1081,BLZ - Belize dollar (BZD),False,1081,1,1.197,1294,2025,646.9,1190,,Belize
+BTN,LFS - Labour Force Survey,2025,,2.5e+04,BTN - Ngultrum (BTN),False,2.5e+04,1,1,2.5e+04,2025,286.8,1188,,Bhutan
+LBN,LFS - Labour Force Survey,2019,,1e+06,LBN - Lebanese pound (LBP),False,1e+06,1,68.31,6.831e+07,2025,763.3,1168,inflation since survey too high (uprating > 2x),Lebanon
+MDV,LFS - Labour Force Survey,2025,"Geographical coverage: Total national, excluding some areas",1.1e+04,MDV - Rufiyaa (MVR),False,1.1e+04,1,1,1.1e+04,2025,713.6,1149,,Maldives
+VNM,LFS - Labour Force Survey,2024,,8e+06,VNM - Dông (VND),False,8e+06,1,1,8e+06,2024,331.1,1117,,Viet Nam
+ECU,"LFS - National Survey on Employment, Unemployment and Underemployment",2025,,470,ECU - United States dollar (USD),False,470,1,1,470,2025,470,1065,,Ecuador
+BOL,LFS - Continuous Employment Survey,2025,,2800,BOL - Bolivian (BOB),False,2800,1,1,2800,2025,405.2,1037,,Bolivia
+DOM,LFS - Continuous National Labour Force Survey,2025,,2.399e+04,DOM - Dominican peso (DOP),False,2.399e+04,1,1,2.399e+04,2025,387,1008,,Dominican Republic
+PRY,HS - Continuous Permanent Household Survey,2025,,2.8e+06,PRY - Guarani (PYG),False,2.8e+06,1,1,2.8e+06,2025,371.1,974.1,,Paraguay
+GTM,LFS - Employment and Income Survey,2025,,3296,GTM - Quetzal (GTQ),False,3296,1,1,3296,2025,429.2,960.3,,Guatemala
+JOR,LFS - Employment and Unemployment Survey,2024,,300,JOR - Jordanian dinar (JOD),False,300,1,1.018,305.3,2025,430,959.2,,Jordan
+SLV,HS - Multi-purpose Household Survey,2025,,433.3,SLV - United States dollar (USD),False,433.3,1,1,433.3,2025,433.3,924.3,,El Salvador
+ARM,HIES - Households Living Conditions Survey,2023,Age coverage - maximum age: 75 years old,1.4e+05,ARM - Dram (AMD),False,1.4e+05,1,1.036,1.45e+05,2025,374.7,914.8,,Armenia
+TUN,LFS - National Population and Employment Survey,2019,Data reference period: Second quarter,600,TUN - Tunisian dinar (TND),False,600,1,1.49,894.3,2025,298.4,912.3,,Tunisia
+COL,LFS - Integrated Household Survey,2025,,1.5e+06,COL - Colombian peso (COP),False,1.5e+06,1,1,1.5e+06,2025,370.1,900.6,,Colombia
+PLW,HIES - Household Income and Expenditure Survey,2023,,831.1,PLW - United States dollar (USD),False,831.1,1,1.018,846.1,2025,846.1,878.3,,Palau
+BRA,HS - Continuous National Household Sample Survey,2025,,2200,BRA - Real (BRL),False,2200,1,1,2200,2025,393.8,852.2,,Brazil
+MDA,LFS - Labour Force Survey,2025,,7200,MDA - Moldovan leu (MDL),False,7200,1,1,7200,2025,414.3,820.7,,Moldova
+PHL,LFS - Labour Force Survey,2025,,1.642e+04,PHL - Philippine peso (PHP),False,1.642e+04,1,1,1.642e+04,2025,285.6,799.9,,Philippines
+PER,"LFS - Permanent Employment Survey, National",2025,,1520,PER - Nuevo sol (PEN),False,1520,1,1,1520,2025,426.1,788.8,,Peru
+EGY,LFS - Labour Force Sample Survey,2025,,6083,EGY - Egyptian pound (EGP),False,6083,1,1,6083,2025,123.6,787.8,,"Egypt, Arab Rep."
+MEX,LFS - National Occupation and Employment Survey,2025,,8764,MEX - New Peso (MXN),False,8764,1,1,8764,2025,455.6,775,,Mexico
+GEO,HIES - Household Income and Expenditure Survey,2023,,800,GEO - Lari (GEL),False,800,1,1.05,840.2,2025,306.3,772.6,,Georgia
+IND,LFS - Periodic Labour Force Survey,2025,,1.5e+04,IND - Indian rupee (INR),False,1.5e+04,1,1,1.5e+04,2025,172.1,756.1,,India
+TON,LFS - Labour Force Survey,2023,,1295,TON - Pa'anga (TOP),False,1295,1,1.09,1411,2025,585.4,751.9,,Tonga
+HND,HS - Continuous Multi-Purpose Household Survey,2025,Data reference period: Second quarter,9000,HND - Lempira (HNL),False,9000,1,1,9000,2025,346.8,713.3,,Honduras
+KHM,LFS - Labour Force Survey,2025,,1.04e+06,KHM - Riel (KHR),False,1.04e+06,1,1,1.04e+06,2025,259.1,706.1,,Cambodia
+ZAF,HIES - National Income Dynamic Survey,2020,,4200,ZAF - Rand (ZAR),False,4200,1,1.279,5374,2025,300.4,694.3,,South Africa
+WSM,LFS - Labour Force Survey,2022,,1126,WSM - Tala (WST),False,1126,1,1.127,1269,2025,454.5,674.3,,Samoa
+GNQ,HIES - National Household Survey,2023,,1.7e+05,GNQ - Central African CFA franc (XAF),False,1.7e+05,1,1.029,1.75e+05,2024,288.6,634.7,,Equatorial Guinea
+SUR,HIES - Survey on Living Conditions,2022,,5000,SUR - Surinamese dollar (SRD),False,5000,1,1.924,9620,2025,258.2,615.5,,Suriname
+LAO,LFS - Labour Force Survey,2022,,2e+06,LAO - Kip (LAK),False,2e+06,1,1.741,3.482e+06,2025,170.3,593.2,,Lao PDR
+LKA,LFS - Labour Force Survey,2025,,4.6e+04,LKA - Sri Lankan rupee (LKR),False,4.6e+04,,1,4.6e+04,2025,152.9,567,,Sri Lanka
+TLS,LFS - Labour Force Survey,2021,,200,TLS - United States dollar (USD),False,200,1,1.189,237.8,2025,237.8,533.7,,Timor-Leste
+TZA,LFS - Labour Force Survey,2025,,3.456e+05,TZA - Tanzanian shilling (TZS),False,3.456e+05,,1,3.456e+05,2024,133,525.6,,Tanzania
+NAM,LFS - Labour Force Survey,2018,,2800,NAM - Namibian dollar (NAD),False,2800,1,1.331,3728,2025,208.4,505.1,,Namibia
+KIR,HIES - Household Income and Expenditure Survey,2023,,430,KIR - Australian dollar (AUD),False,430,1,1.091,469.2,2025,302.3,484.2,,Kiribati
+BWA,HS - Multi-Topic Household Survey,2024,,2500,BWA - Pula (BWP),False,2500,1,1.027,2567,2025,190.1,483.3,,Botswana
+IDN,LFS - National Labour Force Survey,2024,,2.303e+06,IDN - Indonesian rupiah (IDR),False,2.303e+06,1,1.019,2.347e+06,2025,142.4,463.2,,Indonesia
+BGD,LFS - Labour Force Survey,2024,,1.4e+04,BGD - Taka (BDT),False,1.4e+04,1,1.088,1.523e+04,2025,124.9,435.8,,Bangladesh
+PAK,LFS - Labour Force Survey,2025,Data reference period: Noncalendar year,2.598e+04,PAK - Pakistani rupee (PKR),False,2.598e+04,1,1,2.598e+04,2025,92.41,397.3,,Pakistan
+COM,LFS - National Survey on Employment and the Informal Sector,2021,,7.5e+04,COM - Comorian franc (KMF),False,7.5e+04,1,1.323,9.921e+04,2025,227.9,391,,Comoros
+TCD,HIES - Modular and Integrated Household Survey on Living Conditions,2022,,7.5e+04,TCD - Central African CFA franc (XAF),False,7.5e+04,1,1.16,8.698e+04,2025,149.5,390.5,,Chad
+CIV,HIES - Living Standards Measurement Survey,2022,,8.1e+04,CIV - West African CFA franc (XOF),False,8.1e+04,1,1.081,8.757e+04,2025,150.5,383.6,,Cote d'Ivoire
+SEN,LFS - National Employment Survey,2025,,8.667e+04,SEN - West African CFA franc (XOF),False,8.667e+04,1,1,8.667e+04,2025,148.9,382.6,,Senegal
+MLI,LFS - Continuous Household Employment Survey,2024,,7e+04,MLI - West African CFA franc (XOF),False,7e+04,1,1.033,7.229e+04,2025,124.2,373.7,,Mali
+MOZ,HIES - Household Budget Survey,2022,,7500,MOZ - Metical (MZN),False,7500,1,1.164,8728,2024,136.6,347.8,,Mozambique
+ZMB,LFS - Labour Force Survey,2024,,2500,ZMB - Zambian kwacha (ZMW),False,2500,1,1.139,2848,2025,112.7,339.3,,Zambia
+GHA,LFS - Labour Force Survey,2025,,1732,GHA - Cedi (GHS),False,1732,1,1,1732,2025,137.9,329.9,,Ghana
+BEN,HIES - Monitoring Survey of the Modular and Integrated Survey of Household Living Conditions,2022,,6e+04,BEN - West African CFA franc (XOF),False,6e+04,1,1.051,6.305e+04,2025,108.3,321.4,,Benin
+ETH,LFS - National Labor Force Survey,2021,,3200,ETH - Birr (ETB),False,3200,1,2.389,7646,2024,92.57,312.2,inflation since survey too high (uprating > 2x),Ethiopia
+GNB,HIES - Harmonized Survey on Household Living Conditions,2022,,6e+04,GNB - West African CFA franc (XOF),False,6e+04,1,1.121,6.726e+04,2025,115.6,299.1,,Guinea-Bissau
+NER,HIES - National Survey on Household Living Conditions,2022,,5e+04,NER - West African CFA franc (XOF),False,5e+04,1,1.081,5.403e+04,2025,92.85,270.7,,Niger
+TGO,HIES - Living Standards Measurement Survey,2022,,5.2e+04,TGO - West African CFA franc (XOF),False,5.2e+04,1,1.09,5.667e+04,2025,97.38,259.5,,Togo
+BFA,LFS - Labour Force Survey,2025,,5e+04,BFA - West African CFA franc (XOF),False,5e+04,1,1,5e+04,2025,85.92,258.9,,Burkina Faso
+GMB,LFS - Labour Force Survey,2018,,2750,GMB - Dalasi (GMD),False,2750,1,1.773,4876,2024,72.06,251.5,,"Gambia, The"
+LSO,LFS - Integrated Labour Force Survey,2024,,1400,LSO - Loti (LSL),False,1400,1,1.043,1460,2025,81.6,234.2,,Lesotho
+UGA,LFS - National Labour Force Survey,2021,,2.4e+05,UGA - Ugandan shilling (UGX),False,2.4e+05,1,1.209,2.901e+05,2025,80.51,216.9,,Uganda
+AGO,LFS - Employment Survey,2024,,6e+04,AGO - Kwanza (AOA),False,6e+04,1,1.202,7.21e+04,2025,79.05,198,,Angola
+NGA,HS - General Household Survey,2024,,5e+04,NGA - Naira (NGN),False,5e+04,1,1.23,6.151e+04,2025,40.51,193.4,,Nigeria
+KEN,HS - Continuous household survey,2019,,6000,KEN - Kenyan shilling (KES),False,6000,1,1.41,8459,2025,65.42,188,,Kenya
+RWA,LFS - Labour Force Survey,2024,,3.5e+04,RWA - Rwandan franc (RWF),False,3.5e+04,1,1.059,3.707e+04,2025,25.95,99.46,,Rwanda
+BDI,HIES - Living Standards Survey,2020,,4.33e+04,BDI - Burundian franc (BIF),False,4.33e+04,1,2.636,1.141e+05,2025,38.78,84.89,inflation since survey too high (uprating > 2x),Burundi

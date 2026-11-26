@@ -1,0 +1,865 @@
+{
+ "countries": 164,
+ "years": {
+  "2024": 7,
+  "2025": 157
+ },
+ "dropped_wdi": [
+  {
+   "iso3": "ABW",
+   "country": "Aruba",
+   "wdi_year": 2021,
+   "price_level": 0.8454972067039105
+  },
+  {
+   "iso3": "AFG",
+   "country": "Afghanistan",
+   "wdi_year": 2020,
+   "price_level": 0.2055263723173661
+  },
+  {
+   "iso3": "AND",
+   "country": "Andorra",
+   "wdi_year": 2021,
+   "price_level": 0.755957401254115
+  },
+  {
+   "iso3": "ARG",
+   "country": "Argentina",
+   "wdi_year": 2021,
+   "price_level": 0.45253061615505513
+  },
+  {
+   "iso3": "ASM",
+   "country": "American Samoa",
+   "wdi_year": 2021,
+   "price_level": 0.903446
+  },
+  {
+   "iso3": "BMU",
+   "country": "Bermuda",
+   "wdi_year": 2021,
+   "price_level": 1.44135
+  },
+  {
+   "iso3": "BRB",
+   "country": "Barbados",
+   "wdi_year": 2021,
+   "price_level": 1.31865
+  },
+  {
+   "iso3": "COD",
+   "country": "Congo, Dem. Rep.",
+   "wdi_year": 2021,
+   "price_level": 0.46677725332890985
+  },
+  {
+   "iso3": "CUW",
+   "country": "Curacao",
+   "wdi_year": 2021,
+   "price_level": 0.7871787709497206
+  },
+  {
+   "iso3": "CYM",
+   "country": "Cayman Islands",
+   "wdi_year": 2021,
+   "price_level": 1.4010056040224161
+  },
+  {
+   "iso3": "ERI",
+   "country": "Eritrea",
+   "wdi_year": 2021,
+   "price_level": 0.3447217247097844
+  },
+  {
+   "iso3": "FRO",
+   "country": "Faroe Islands",
+   "wdi_year": 2021,
+   "price_level": 1.0389813443696707
+  },
+  {
+   "iso3": "FSM",
+   "country": "Micronesia, Fed. Sts.",
+   "wdi_year": 2022,
+   "price_level": 0.926676
+  },
+  {
+   "iso3": "GIN",
+   "country": "Guinea",
+   "wdi_year": 2020,
+   "price_level": 0.32262458860772725
+  },
+  {
+   "iso3": "GRL",
+   "country": "Greenland",
+   "wdi_year": 2021,
+   "price_level": 0.8725757939657489
+  },
+  {
+   "iso3": "GUM",
+   "country": "Guam",
+   "wdi_year": 2021,
+   "price_level": 1.11213
+  },
+  {
+   "iso3": "IRN",
+   "country": "Iran, Islamic Rep.",
+   "wdi_year": 2023,
+   "price_level": 2.1093619047619048
+  },
+  {
+   "iso3": "KNA",
+   "country": "St. Kitts and Nevis",
+   "wdi_year": 2023,
+   "price_level": 0.7948592592592592
+  },
+  {
+   "iso3": "LBR",
+   "country": "Liberia",
+   "wdi_year": 2024,
+   "price_level": 0.0026439753903411797
+  },
+  {
+   "iso3": "MHL",
+   "country": "Marshall Islands",
+   "wdi_year": 2021,
+   "price_level": 0.952069
+  },
+  {
+   "iso3": "MMR",
+   "country": "Myanmar",
+   "wdi_year": 2020,
+   "price_level": 0.31521619548066765
+  },
+  {
+   "iso3": "MNP",
+   "country": "Northern Mariana Islands",
+   "wdi_year": 2021,
+   "price_level": 0.937483
+  },
+  {
+   "iso3": "MRT",
+   "country": "Mauritania",
+   "wdi_year": 2023,
+   "price_level": 0.3394292009690539
+  },
+  {
+   "iso3": "MWI",
+   "country": "Malawi",
+   "wdi_year": 2023,
+   "price_level": 0.3365699472047817
+  },
+  {
+   "iso3": "NCL",
+   "country": "New Caledonia",
+   "wdi_year": 2021,
+   "price_level": 1.1507731958762888
+  },
+  {
+   "iso3": "NRU",
+   "country": "Naoero",
+   "wdi_year": 2021,
+   "price_level": 0.8589489340604859
+  },
+  {
+   "iso3": "PRI",
+   "country": "Puerto Rico (US)",
+   "wdi_year": 2021,
+   "price_level": 0.896932
+  },
+  {
+   "iso3": "PYF",
+   "country": "French Polynesia",
+   "wdi_year": 2021,
+   "price_level": 1.0097739888977002
+  },
+  {
+   "iso3": "SDN",
+   "country": "Sudan",
+   "wdi_year": 2022,
+   "price_level": 0.41020449594794045
+  },
+  {
+   "iso3": "SLE",
+   "country": "Sierra Leone",
+   "wdi_year": 2023,
+   "price_level": 0.2485728635196598
+  },
+  {
+   "iso3": "SSD",
+   "country": "South Sudan",
+   "wdi_year": 2021,
+   "price_level": 0.5159112793980839
+  },
+  {
+   "iso3": "SWZ",
+   "country": "Eswatini",
+   "wdi_year": 2021,
+   "price_level": 0.418647266528674
+  },
+  {
+   "iso3": "SXM",
+   "country": "Sint Maarten (Dutch part)",
+   "wdi_year": 2021,
+   "price_level": 0.8587150837988826
+  },
+  {
+   "iso3": "SYR",
+   "country": "Syrian Arab Republic",
+   "wdi_year": 2021,
+   "price_level": 0.4035541401273885
+  },
+  {
+   "iso3": "TCA",
+   "country": "Turks and Caicos Islands",
+   "wdi_year": 2021,
+   "price_level": 1.31719
+  },
+  {
+   "iso3": "TUV",
+   "country": "Tuvalu",
+   "wdi_year": 2021,
+   "price_level": 0.9723486726461441
+  },
+  {
+   "iso3": "VIR",
+   "country": "Virgin Islands (U.S.)",
+   "wdi_year": 2021,
+   "price_level": 1.01028
+  },
+  {
+   "iso3": "XKX",
+   "country": "Kosovo",
+   "wdi_year": 2022,
+   "price_level": 0.40616521333114597
+  },
+  {
+   "iso3": "ZWE",
+   "country": "Zimbabwe",
+   "wdi_year": 2021,
+   "price_level": 0.0003273632335204918
+  }
+ ],
+ "median_price_level": 0.48189630369387815,
+ "median_value_of_1000": 2075.139914267038,
+ "share_cheaper_than_us": 0.9451219512195121,
+ "n_dearer_than_us": 8,
+ "dearer_than_us": [
+  "Vanuatu",
+  "Ireland",
+  "Haiti",
+  "Denmark",
+  "Israel",
+  "Bahamas, The",
+  "Switzerland",
+  "Iceland"
+ ],
+ "top20": [
+  {
+   "country": "Egypt, Arab Rep.",
+   "price_level": 0.1568593355786771,
+   "value_of_1000_usd": 6375.138568009697
+  },
+  {
+   "country": "Nigeria",
+   "price_level": 0.20947325438954675,
+   "value_of_1000_usd": 4773.879142300195
+  },
+  {
+   "country": "India",
+   "price_level": 0.22761890993868633,
+   "value_of_1000_usd": 4393.308096719073
+  },
+  {
+   "country": "Pakistan",
+   "price_level": 0.23260796107319054,
+   "value_of_1000_usd": 4299.078997065574
+  },
+  {
+   "country": "Bhutan",
+   "price_level": 0.2415406891361016,
+   "value_of_1000_usd": 4140.089206405001
+  },
+  {
+   "country": "Tanzania",
+   "price_level": 0.25307748566149585,
+   "value_of_1000_usd": 3951.358997368701
+  },
+  {
+   "country": "Nepal",
+   "price_level": 0.253533407612407,
+   "value_of_1000_usd": 3944.253380322821
+  },
+  {
+   "country": "Rwanda",
+   "price_level": 0.2609122983870968,
+   "value_of_1000_usd": 3832.7054959915
+  },
+  {
+   "country": "Sri Lanka",
+   "price_level": 0.26967512265166926,
+   "value_of_1000_usd": 3708.1655518209145
+  },
+  {
+   "country": "Belarus",
+   "price_level": 0.2764936448616401,
+   "value_of_1000_usd": 3616.719655529186
+  },
+  {
+   "country": "Uzbekistan",
+   "price_level": 0.28405726823218913,
+   "value_of_1000_usd": 3520.41687306025
+  },
+  {
+   "country": "Ukraine",
+   "price_level": 0.2845971728821202,
+   "value_of_1000_usd": 3513.7383476897667
+  },
+  {
+   "country": "Gambia, The",
+   "price_level": 0.2865571405768742,
+   "value_of_1000_usd": 3489.7053969301865
+  },
+  {
+   "country": "Bangladesh",
+   "price_level": 0.28658393549921674,
+   "value_of_1000_usd": 3489.379117702615
+  },
+  {
+   "country": "Lao PDR",
+   "price_level": 0.28712978316482507,
+   "value_of_1000_usd": 3482.7456384974043
+  },
+  {
+   "country": "Madagascar",
+   "price_level": 0.29038688669352614,
+   "value_of_1000_usd": 3443.6816737368667
+  },
+  {
+   "country": "Viet Nam",
+   "price_level": 0.29632690389780214,
+   "value_of_1000_usd": 3374.651396300088
+  },
+  {
+   "country": "Ethiopia",
+   "price_level": 0.29653165264953457,
+   "value_of_1000_usd": 3372.321271826863
+  },
+  {
+   "country": "Indonesia",
+   "price_level": 0.3074402684808137,
+   "value_of_1000_usd": 3252.664346610817
+  },
+  {
+   "country": "Algeria",
+   "price_level": 0.31712991808884095,
+   "value_of_1000_usd": 3153.2818033266085
+  }
+ ],
+ "bottom20": [
+  {
+   "country": "Iceland",
+   "price_level": 1.2970858215055938,
+   "value_of_1000_usd": 770.9590093577993
+  },
+  {
+   "country": "Switzerland",
+   "price_level": 1.2816891921150506,
+   "value_of_1000_usd": 780.2203577528765
+  },
+  {
+   "country": "Bahamas, The",
+   "price_level": 1.08963,
+   "value_of_1000_usd": 917.7427200058735
+  },
+  {
+   "country": "Israel",
+   "price_level": 1.0590603987960219,
+   "value_of_1000_usd": 944.233210057553
+  },
+  {
+   "country": "Denmark",
+   "price_level": 1.045279024076426,
+   "value_of_1000_usd": 956.6823565445283
+  },
+  {
+   "country": "Haiti",
+   "price_level": 1.0222543750861237,
+   "value_of_1000_usd": 978.2301004246142
+  },
+  {
+   "country": "Ireland",
+   "price_level": 1.0214628987004064,
+   "value_of_1000_usd": 978.9880780518672
+  },
+  {
+   "country": "Vanuatu",
+   "price_level": 1.0159070509624015,
+   "value_of_1000_usd": 984.3420213027046
+  },
+  {
+   "country": "United States",
+   "price_level": 1.0,
+   "value_of_1000_usd": 1000.0
+  },
+  {
+   "country": "Luxembourg",
+   "price_level": 0.9864774924319383,
+   "value_of_1000_usd": 1013.7078723760084
+  },
+  {
+   "country": "Palau",
+   "price_level": 0.963318,
+   "value_of_1000_usd": 1038.0788067906963
+  },
+  {
+   "country": "Norway",
+   "price_level": 0.962051982531407,
+   "value_of_1000_usd": 1039.4448721666183
+  },
+  {
+   "country": "Australia",
+   "price_level": 0.9436791237113402,
+   "value_of_1000_usd": 1059.6822318874224
+  },
+  {
+   "country": "United Kingdom",
+   "price_level": 0.9237037739277447,
+   "value_of_1000_usd": 1082.5981534619382
+  },
+  {
+   "country": "Solomon Islands",
+   "price_level": 0.9184456528527027,
+   "value_of_1000_usd": 1088.7960511261483
+  },
+  {
+   "country": "Finland",
+   "price_level": 0.9062577333217322,
+   "value_of_1000_usd": 1103.43885986459
+  },
+  {
+   "country": "Sweden",
+   "price_level": 0.9051280406406461,
+   "value_of_1000_usd": 1104.8160647991901
+  },
+  {
+   "country": "Canada",
+   "price_level": 0.9015599630930328,
+   "value_of_1000_usd": 1109.188563087078
+  },
+  {
+   "country": "New Zealand",
+   "price_level": 0.8889489625663475,
+   "value_of_1000_usd": 1124.9239743899966
+  },
+  {
+   "country": "Belgium",
+   "price_level": 0.8720734850599287,
+   "value_of_1000_usd": 1146.6923569305404
+  }
+ ],
+ "regions": [
+  {
+   "region": "South Asia",
+   "countries": 6,
+   "median_price_level": 0.26160426513203816,
+   "median_value_of_1000": 3826.2094660718676
+  },
+  {
+   "region": "Sub-Saharan Africa",
+   "countries": 36,
+   "median_price_level": 0.38782117375345404,
+   "median_value_of_1000": 2578.542878526844
+  },
+  {
+   "region": "Middle East, North Africa, Afghanistan & Pakistan",
+   "countries": 18,
+   "median_price_level": 0.48045954437927124,
+   "median_value_of_1000": 2081.8437491481236
+  },
+  {
+   "region": "Latin America & Caribbean",
+   "countries": 28,
+   "median_price_level": 0.5260082014567053,
+   "median_value_of_1000": 1902.5016371791412
+  },
+  {
+   "region": "East Asia & Pacific",
+   "countries": 26,
+   "median_price_level": 0.6174025224641946,
+   "median_value_of_1000": 1619.696516586519
+  },
+  {
+   "region": "Europe & Central Asia",
+   "countries": 48,
+   "median_price_level": 0.6315887901158119,
+   "median_value_of_1000": 1583.5438332350966
+  },
+  {
+   "region": "North America",
+   "countries": 2,
+   "median_price_level": 0.9507799815465163,
+   "median_value_of_1000": 1054.594281543539
+  }
+ ],
+ "income": [
+  {
+   "income_group": "High income",
+   "countries": 60,
+   "median_price_level": 0.690093755178663,
+   "median_value_of_1000": 1449.078937872955
+  },
+  {
+   "income_group": "Low income",
+   "countries": 13,
+   "median_price_level": 0.34296339066001297,
+   "median_value_of_1000": 2915.763102515282
+  },
+  {
+   "income_group": "Lower middle income",
+   "countries": 40,
+   "median_price_level": 0.37240965384894886,
+   "median_value_of_1000": 2685.375524547314
+  },
+  {
+   "income_group": "Upper middle income",
+   "countries": 51,
+   "median_price_level": 0.441506,
+   "median_value_of_1000": 2264.974881428565
+  }
+ ],
+ "gdp_vs_private_ppp_median_abs_diff_pct": 7.188920542401073,
+ "gdp_vs_private_ppp_rank_corr": 0.9712322746982304,
+ "earnings_countries": 108,
+ "earnings_years": {
+  "2018": 2,
+  "2019": 3,
+  "2020": 2,
+  "2021": 5,
+  "2022": 11,
+  "2023": 7,
+  "2024": 17,
+  "2025": 61
+ },
+ "earnings_excluded": [
+  {
+   "iso3": "BDI",
+   "year": 2020,
+   "note": "inflation since survey too high (uprating > 2x)"
+  },
+  {
+   "iso3": "ETH",
+   "year": 2021,
+   "note": "inflation since survey too high (uprating > 2x)"
+  },
+  {
+   "iso3": "LBN",
+   "year": 2019,
+   "note": "inflation since survey too high (uprating > 2x)"
+  }
+ ],
+ "earnings_eur_converted": [
+  "BGR",
+  "CZE",
+  "DNK",
+  "HUN",
+  "ISL",
+  "NOR",
+  "POL",
+  "ROU",
+  "SRB",
+  "SWE"
+ ],
+ "cases": [
+  {
+   "salary_inr_month": 50000,
+   "to": "United Kingdom",
+   "iso3": "GBR",
+   "market_rate_equivalent": 435.6860612402247,
+   "ppp_equivalent": 1768.064257594927,
+   "ppp_over_market": 4.058115268966724,
+   "with_30pct_spending_at_market_prices": 1368.3507986885163,
+   "times_india_median": 3.3333333333333335,
+   "destination_median_lcu": 2708.33,
+   "ppp_equivalent_times_destination_median": 0.6528245293575476,
+   "same_rank_salary_lcu": 9027.766666666666
+  },
+  {
+   "salary_inr_month": 50000,
+   "to": "United States",
+   "iso3": "USA",
+   "market_rate_equivalent": 573.66817197195,
+   "ppp_equivalent": 2520.3010247543966,
+   "ppp_over_market": 4.393308096719072,
+   "with_30pct_spending_at_market_prices": 1936.3111689196626,
+   "times_india_median": 3.3333333333333335,
+   "destination_median_lcu": 4480.67,
+   "ppp_equivalent_times_destination_median": 0.5624830716732981,
+   "same_rank_salary_lcu": 14935.566666666668
+  },
+  {
+   "salary_inr_month": 50000,
+   "to": "United Arab Emirates",
+   "iso3": "ARE",
+   "market_rate_equivalent": 2106.796361566986,
+   "ppp_equivalent": 6368.775486544113,
+   "ppp_over_market": 3.022966814793228,
+   "with_30pct_spending_at_market_prices": 5090.181749050974,
+   "times_india_median": 3.3333333333333335,
+   "destination_median_lcu": NaN,
+   "ppp_equivalent_times_destination_median": NaN,
+   "same_rank_salary_lcu": NaN
+  },
+  {
+   "salary_inr_month": 50000,
+   "to": "Germany",
+   "iso3": "DEU",
+   "market_rate_equivalent": 507.6785484818446,
+   "ppp_equivalent": 1811.801561578515,
+   "ppp_over_market": 3.568796765190302,
+   "with_30pct_spending_at_market_prices": 1420.564657649514,
+   "times_india_median": 3.3333333333333335,
+   "destination_median_lcu": 4177.906074062174,
+   "ppp_equivalent_times_destination_median": 0.4336625882584531,
+   "same_rank_salary_lcu": 13926.35358020725
+  },
+  {
+   "salary_inr_month": 100000,
+   "to": "United Kingdom",
+   "iso3": "GBR",
+   "market_rate_equivalent": 871.3721224804494,
+   "ppp_equivalent": 3536.128515189854,
+   "ppp_over_market": 4.058115268966724,
+   "with_30pct_spending_at_market_prices": 2736.7015973770326,
+   "times_india_median": 6.666666666666667,
+   "destination_median_lcu": 2708.33,
+   "ppp_equivalent_times_destination_median": 1.3056490587150953,
+   "same_rank_salary_lcu": 18055.533333333333
+  },
+  {
+   "salary_inr_month": 100000,
+   "to": "United States",
+   "iso3": "USA",
+   "market_rate_equivalent": 1147.3363439439,
+   "ppp_equivalent": 5040.602049508793,
+   "ppp_over_market": 4.393308096719072,
+   "with_30pct_spending_at_market_prices": 3872.622337839325,
+   "times_india_median": 6.666666666666667,
+   "destination_median_lcu": 4480.67,
+   "ppp_equivalent_times_destination_median": 1.1249661433465963,
+   "same_rank_salary_lcu": 29871.133333333335
+  },
+  {
+   "salary_inr_month": 100000,
+   "to": "United Arab Emirates",
+   "iso3": "ARE",
+   "market_rate_equivalent": 4213.592723133972,
+   "ppp_equivalent": 12737.550973088226,
+   "ppp_over_market": 3.022966814793228,
+   "with_30pct_spending_at_market_prices": 10180.363498101948,
+   "times_india_median": 6.666666666666667,
+   "destination_median_lcu": NaN,
+   "ppp_equivalent_times_destination_median": NaN,
+   "same_rank_salary_lcu": NaN
+  },
+  {
+   "salary_inr_month": 100000,
+   "to": "Germany",
+   "iso3": "DEU",
+   "market_rate_equivalent": 1015.3570969636892,
+   "ppp_equivalent": 3623.60312315703,
+   "ppp_over_market": 3.568796765190302,
+   "with_30pct_spending_at_market_prices": 2841.129315299028,
+   "times_india_median": 6.666666666666667,
+   "destination_median_lcu": 4177.906074062174,
+   "ppp_equivalent_times_destination_median": 0.8673251765169062,
+   "same_rank_salary_lcu": 27852.7071604145
+  },
+  {
+   "salary_inr_month": 200000,
+   "to": "United Kingdom",
+   "iso3": "GBR",
+   "market_rate_equivalent": 1742.7442449608989,
+   "ppp_equivalent": 7072.257030379708,
+   "ppp_over_market": 4.058115268966724,
+   "with_30pct_spending_at_market_prices": 5473.403194754065,
+   "times_india_median": 13.333333333333334,
+   "destination_median_lcu": 2708.33,
+   "ppp_equivalent_times_destination_median": 2.6112981174301906,
+   "same_rank_salary_lcu": 36111.066666666666
+  },
+  {
+   "salary_inr_month": 200000,
+   "to": "United States",
+   "iso3": "USA",
+   "market_rate_equivalent": 2294.6726878878,
+   "ppp_equivalent": 10081.204099017586,
+   "ppp_over_market": 4.393308096719072,
+   "with_30pct_spending_at_market_prices": 7745.24467567865,
+   "times_india_median": 13.333333333333334,
+   "destination_median_lcu": 4480.67,
+   "ppp_equivalent_times_destination_median": 2.2499322866931926,
+   "same_rank_salary_lcu": 59742.26666666667
+  },
+  {
+   "salary_inr_month": 200000,
+   "to": "United Arab Emirates",
+   "iso3": "ARE",
+   "market_rate_equivalent": 8427.185446267944,
+   "ppp_equivalent": 25475.10194617645,
+   "ppp_over_market": 3.022966814793228,
+   "with_30pct_spending_at_market_prices": 20360.726996203895,
+   "times_india_median": 13.333333333333334,
+   "destination_median_lcu": NaN,
+   "ppp_equivalent_times_destination_median": NaN,
+   "same_rank_salary_lcu": NaN
+  },
+  {
+   "salary_inr_month": 200000,
+   "to": "Germany",
+   "iso3": "DEU",
+   "market_rate_equivalent": 2030.7141939273783,
+   "ppp_equivalent": 7247.20624631406,
+   "ppp_over_market": 3.568796765190302,
+   "with_30pct_spending_at_market_prices": 5682.258630598056,
+   "times_india_median": 13.333333333333334,
+   "destination_median_lcu": 4177.906074062174,
+   "ppp_equivalent_times_destination_median": 1.7346503530338124,
+   "same_rank_salary_lcu": 55705.414320829
+  }
+ ],
+ "focus": [
+  {
+   "iso3": "IND",
+   "country": "India",
+   "wdi_year": 2025,
+   "ppp": 19.8389,
+   "fx": 87.1584,
+   "price_level": 0.22761890993868633,
+   "value_of_1000_usd": 4393.308096719073,
+   "earnings_year": 2025.0,
+   "median_monthly_lcu_ppp_year": 15000.0,
+   "median_monthly_intl_usd_ppp": 756.090307426319
+  },
+  {
+   "iso3": "GBR",
+   "country": "United Kingdom",
+   "wdi_year": 2025,
+   "ppp": 0.701529,
+   "fx": 0.759474,
+   "price_level": 0.9237037739277447,
+   "value_of_1000_usd": 1082.5981534619382,
+   "earnings_year": 2025.0,
+   "median_monthly_lcu_ppp_year": 2708.33,
+   "median_monthly_intl_usd_ppp": 3860.6101814750355
+  },
+  {
+   "iso3": "USA",
+   "country": "United States",
+   "wdi_year": 2025,
+   "ppp": 1.0,
+   "fx": 1.0,
+   "price_level": 1.0,
+   "value_of_1000_usd": 1000.0,
+   "earnings_year": 2025.0,
+   "median_monthly_lcu_ppp_year": 4480.67,
+   "median_monthly_intl_usd_ppp": 4480.67
+  },
+  {
+   "iso3": "ARE",
+   "country": "United Arab Emirates",
+   "wdi_year": 2025,
+   "ppp": 2.52699,
+   "fx": 3.6725,
+   "price_level": 0.6880844111640573,
+   "value_of_1000_usd": 1453.3100645431914,
+   "earnings_year": NaN,
+   "median_monthly_lcu_ppp_year": NaN,
+   "median_monthly_intl_usd_ppp": NaN
+  },
+  {
+   "iso3": "DEU",
+   "country": "Germany",
+   "wdi_year": 2025,
+   "ppp": 0.718883,
+   "fx": 0.884969,
+   "price_level": 0.8123256294853266,
+   "value_of_1000_usd": 1231.0334226849154,
+   "earnings_year": 2022.0,
+   "median_monthly_lcu_ppp_year": 4177.906074062174,
+   "median_monthly_intl_usd_ppp": 5811.663475227782
+  },
+  {
+   "iso3": "CHE",
+   "country": "Switzerland",
+   "wdi_year": 2025,
+   "ppp": 1.06554,
+   "fx": 0.831356,
+   "price_level": 1.2816891921150506,
+   "value_of_1000_usd": 780.2203577528765,
+   "earnings_year": 2025.0,
+   "median_monthly_lcu_ppp_year": 5989.0,
+   "median_monthly_intl_usd_ppp": 5620.624284400398
+  },
+  {
+   "iso3": "EGY",
+   "country": "Egypt, Arab Rep.",
+   "wdi_year": 2025,
+   "ppp": 7.72184,
+   "fx": 49.2278,
+   "price_level": 0.1568593355786771,
+   "value_of_1000_usd": 6375.138568009697,
+   "earnings_year": 2025.0,
+   "median_monthly_lcu_ppp_year": 6083.33,
+   "median_monthly_intl_usd_ppp": 787.8083461972793
+  },
+  {
+   "iso3": "PAK",
+   "country": "Pakistan",
+   "wdi_year": 2025,
+   "ppp": 65.3961,
+   "fx": 281.143,
+   "price_level": 0.23260796107319054,
+   "value_of_1000_usd": 4299.078997065574,
+   "earnings_year": 2025.0,
+   "median_monthly_lcu_ppp_year": 25980.0,
+   "median_monthly_intl_usd_ppp": 397.27139691816484
+  },
+  {
+   "iso3": "CAN",
+   "country": "Canada",
+   "wdi_year": 2025,
+   "ppp": 1.26048,
+   "fx": 1.39811,
+   "price_level": 0.9015599630930328,
+   "value_of_1000_usd": 1109.188563087078,
+   "earnings_year": 2025.0,
+   "median_monthly_lcu_ppp_year": 5026.67,
+   "median_monthly_intl_usd_ppp": 3987.9014343742065
+  },
+  {
+   "iso3": "AUS",
+   "country": "Australia",
+   "wdi_year": 2025,
+   "ppp": 1.46459,
+   "fx": 1.552,
+   "price_level": 0.9436791237113402,
+   "value_of_1000_usd": 1059.6822318874224,
+   "earnings_year": 2021.0,
+   "median_monthly_lcu_ppp_year": 5973.067143041071,
+   "median_monthly_intl_usd_ppp": 4078.320310148964
+  },
+  {
+   "iso3": "SGP",
+   "country": "Singapore",
+   "wdi_year": 2025,
+   "ppp": 1.02381,
+   "fx": 1.30745,
+   "price_level": 0.7830586255688555,
+   "value_of_1000_usd": 1277.0435920727477,
+   "earnings_year": NaN,
+   "median_monthly_lcu_ppp_year": NaN,
+   "median_monthly_intl_usd_ppp": NaN
+  }
+ ]
+}

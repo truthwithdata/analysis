@@ -1,0 +1,457 @@
+{
+ "phases": {
+  "csew_1981": 11303.0,
+  "csew_peak_1995": 19786.0,
+  "csew_2014": 7554.0,
+  "csew_latest": 4350.0,
+  "csew_incl_fraud_2017": 11216.0,
+  "csew_incl_fraud_latest": 9701.0,
+  "prc_1981": 2857093.0,
+  "prc_1995": 4967225.0,
+  "prc_peak_old_rules": 5423117.0,
+  "prc_peak_old_rules_period": "YE Dec 1992",
+  "prc_2003": 5791277.0,
+  "prc_low": 3506545.0,
+  "prc_low_period": "YE Mar 2014",
+  "prc_latest": 5246650.0,
+  "prc_1999_old": 4308089.0,
+  "prc_1999_new": 4829586.0,
+  "csew_rise_1981_1995_pct": 75.05087145005751,
+  "prc_rise_1981_1995_pct": 73.8559087856083,
+  "csew_fall_1995_2014_pct": -61.8214899423835,
+  "prc_fall_2003_2014_pct": -39.45126437571541,
+  "csew_fall_2014_latest_pct": -42.414614773629864,
+  "prc_rise_2014_latest_pct": 49.62448792187182,
+  "csew_fall_1995_latest_pct": -78.01475790963308,
+  "counting_rules_1998_effect_pct": 12.105065610297272,
+  "csew_incl_fraud_change_2017_pct": -13.507489300998577,
+  "interviews_latest": 31298
+ },
+ "panel": [
+  {
+   "offence": "Fraud",
+   "csew_change_pct": 33.6,
+   "csew_significant": true,
+   "csew_latest_thousands": 4534.0,
+   "csew_base_thousands": 3395.0,
+   "csew_change_vs_1995_pct": NaN,
+   "csew_change_1y_pct": 11.4,
+   "csew_change_1y_significant": true,
+   "csew_direction": "up",
+   "verdict": "Rising: the survey shows a real increase",
+   "police_base_period": NaN,
+   "police_base": NaN,
+   "police_latest": NaN,
+   "police_change_pct": NaN,
+   "police_peak": NaN,
+   "police_peak_period": NaN,
+   "police_change_1y_pct": NaN,
+   "police_direction": NaN
+  },
+  {
+   "offence": "Theft from outside homes and other household theft",
+   "csew_change_pct": 41.8,
+   "csew_significant": true,
+   "csew_latest_thousands": 833.0,
+   "csew_base_thousands": 588.0,
+   "csew_change_vs_1995_pct": -46.5,
+   "csew_change_1y_pct": 26.9,
+   "csew_change_1y_significant": true,
+   "csew_direction": "up",
+   "verdict": "Rising: the survey shows a real increase",
+   "police_base_period": NaN,
+   "police_base": NaN,
+   "police_latest": NaN,
+   "police_change_pct": NaN,
+   "police_peak": NaN,
+   "police_peak_period": NaN,
+   "police_change_1y_pct": NaN,
+   "police_direction": NaN
+  },
+  {
+   "offence": "Shoplifting",
+   "csew_change_pct": NaN,
+   "csew_significant": NaN,
+   "csew_latest_thousands": NaN,
+   "csew_base_thousands": NaN,
+   "csew_change_vs_1995_pct": NaN,
+   "csew_change_1y_pct": NaN,
+   "csew_change_1y_significant": NaN,
+   "csew_direction": NaN,
+   "verdict": "Rising in police records (no survey measure)",
+   "police_base_period": "YE Mar 2017",
+   "police_base": 370289.0,
+   "police_latest": 519516.0,
+   "police_change_pct": 40.30014394162398,
+   "police_peak": 530348.0,
+   "police_peak_period": "YE Mar 2025",
+   "police_change_1y_pct": -2.0402160139986747,
+   "police_direction": "up"
+  },
+  {
+   "offence": "Theft from the person (pickpocketing, snatches)",
+   "csew_change_pct": -7.2,
+   "csew_significant": false,
+   "csew_latest_thousands": 344.0,
+   "csew_base_thousands": 370.0,
+   "csew_change_vs_1995_pct": -49.4,
+   "csew_change_1y_pct": -25.6,
+   "csew_change_1y_significant": false,
+   "csew_direction": "no clear change",
+   "verdict": "No clear change in the survey; police records up",
+   "police_base_period": "YE Mar 2017",
+   "police_base": 88634.0,
+   "police_latest": 115891.0,
+   "police_change_pct": 30.75230724101361,
+   "police_peak": 151059.0,
+   "police_peak_period": "YE Mar 2025",
+   "police_change_1y_pct": -20.429125613649624,
+   "police_direction": "up"
+  },
+  {
+   "offence": "Violence",
+   "csew_change_pct": -34.5,
+   "csew_significant": true,
+   "csew_latest_thousands": 939.0,
+   "csew_base_thousands": 1432.0,
+   "csew_change_vs_1995_pct": -79.0,
+   "csew_change_1y_pct": -17.3,
+   "csew_change_1y_significant": false,
+   "csew_direction": "down",
+   "verdict": "Falling in the survey; police records up (recording and reporting)",
+   "police_base_period": "YE Mar 2017",
+   "police_base": 1158105.0,
+   "police_latest": 1968215.0,
+   "police_change_pct": 69.95134292659128,
+   "police_peak": 2108706.0,
+   "police_peak_period": "YE Mar 2023",
+   "police_change_1y_pct": 1.3048784191165286,
+   "police_direction": "up"
+  },
+  {
+   "offence": "Robbery",
+   "csew_change_pct": -58.1,
+   "csew_significant": true,
+   "csew_latest_thousands": 54.0,
+   "csew_base_thousands": 129.0,
+   "csew_change_vs_1995_pct": -83.2,
+   "csew_change_1y_pct": -16.6,
+   "csew_change_1y_significant": false,
+   "csew_direction": "down",
+   "verdict": "Falling in the survey; police records up (recording and reporting)",
+   "police_base_period": "YE Mar 2017",
+   "police_base": 59418.0,
+   "police_latest": 88282.0,
+   "police_change_pct": 48.57787202531219,
+   "police_peak": 110271.0,
+   "police_peak_period": "YE Mar 2003",
+   "police_change_1y_pct": 9.709329058395166,
+   "police_direction": "up"
+  },
+  {
+   "offence": "Domestic / residential burglary",
+   "csew_change_pct": -42.6,
+   "csew_significant": true,
+   "csew_latest_thousands": 373.0,
+   "csew_base_thousands": 650.0,
+   "csew_change_vs_1995_pct": -84.1,
+   "csew_change_1y_pct": -0.8,
+   "csew_change_1y_significant": false,
+   "csew_direction": "down",
+   "verdict": "Falling on both measures",
+   "police_base_period": "YE Mar 2018",
+   "police_base": 309769.0,
+   "police_latest": 153229.0,
+   "police_change_pct": -50.53443049498174,
+   "police_peak": 309769.0,
+   "police_peak_period": "YE Mar 2018",
+   "police_change_1y_pct": -4.87220397697995,
+   "police_direction": "down"
+  },
+  {
+   "offence": "Vehicle theft",
+   "csew_change_pct": -22.8,
+   "csew_significant": true,
+   "csew_latest_thousands": 608.0,
+   "csew_base_thousands": 787.0,
+   "csew_change_vs_1995_pct": -85.9,
+   "csew_change_1y_pct": -6.4,
+   "csew_change_1y_significant": false,
+   "csew_direction": "down",
+   "verdict": "Falling on both measures",
+   "police_base_period": "YE Mar 2017",
+   "police_base": 407514.0,
+   "police_latest": 312231.0,
+   "police_change_pct": -23.38152799658416,
+   "police_peak": 1074659.0,
+   "police_peak_period": "YE Mar 2003",
+   "police_change_1y_pct": -6.70481369707473,
+   "police_direction": "down"
+  },
+  {
+   "offence": "Bicycle theft",
+   "csew_change_pct": -33.4,
+   "csew_significant": true,
+   "csew_latest_thousands": 194.0,
+   "csew_base_thousands": 292.0,
+   "csew_change_vs_1995_pct": -70.4,
+   "csew_change_1y_pct": 5.0,
+   "csew_change_1y_significant": false,
+   "csew_direction": "down",
+   "verdict": "Falling on both measures",
+   "police_base_period": "YE Mar 2017",
+   "police_base": 94874.0,
+   "police_latest": 56256.0,
+   "police_change_pct": -40.704513354554464,
+   "police_peak": 115902.0,
+   "police_peak_period": "YE Mar 2012",
+   "police_change_1y_pct": -4.642766336130178,
+   "police_direction": "down"
+  },
+  {
+   "offence": "Criminal damage",
+   "csew_change_pct": -43.9,
+   "csew_significant": true,
+   "csew_latest_thousands": 656.0,
+   "csew_base_thousands": 1169.0,
+   "csew_change_vs_1995_pct": -80.6,
+   "csew_change_1y_pct": 11.8,
+   "csew_change_1y_significant": false,
+   "csew_direction": "down",
+   "verdict": "Falling on both measures",
+   "police_base_period": "YE Mar 2017",
+   "police_base": 565059.0,
+   "police_latest": 457556.0,
+   "police_change_pct": -19.025092954894973,
+   "police_peak": 1209912.0,
+   "police_peak_period": "YE Mar 2004",
+   "police_change_1y_pct": -0.40486182457728503,
+   "police_direction": "down"
+  },
+  {
+   "offence": "Computer misuse (hacking, viruses)",
+   "csew_change_pct": -53.7,
+   "csew_significant": true,
+   "csew_latest_thousands": 817.0,
+   "csew_base_thousands": 1764.0,
+   "csew_change_vs_1995_pct": NaN,
+   "csew_change_1y_pct": 23.1,
+   "csew_change_1y_significant": true,
+   "csew_direction": "down",
+   "verdict": "Falling: the survey shows a real decrease",
+   "police_base_period": NaN,
+   "police_base": NaN,
+   "police_latest": NaN,
+   "police_change_pct": NaN,
+   "police_peak": NaN,
+   "police_peak_period": NaN,
+   "police_change_1y_pct": NaN,
+   "police_direction": NaN
+  }
+ ],
+ "decomposition": [
+  {
+   "group": "Violence against the person",
+   "ye_mar_2014": 634625,
+   "ye_jun_2026": 1968215,
+   "change": 1333590,
+   "change_pct": 210.13827063226316,
+   "share_of_net_rise_pct": 76.63847871249149
+  },
+  {
+   "group": "Sexual offences",
+   "ye_mar_2014": 64232,
+   "ye_jun_2026": 218994,
+   "change": 154762,
+   "change_pct": 240.94220949059658,
+   "share_of_net_rise_pct": 8.893831119386475
+  },
+  {
+   "group": "Public order offences",
+   "ye_mar_2014": 134400,
+   "ye_jun_2026": 449490,
+   "change": 315090,
+   "change_pct": 234.44196428571428,
+   "share_of_net_rise_pct": 18.10752799400036
+  },
+  {
+   "group": "Possession of weapons",
+   "ye_mar_2014": 20623,
+   "ye_jun_2026": 63732,
+   "change": 43109,
+   "change_pct": 209.0336032584978,
+   "share_of_net_rise_pct": 2.4773792386091644
+  },
+  {
+   "group": "Drug offences",
+   "ye_mar_2014": 198216,
+   "ye_jun_2026": 225118,
+   "change": 26902,
+   "change_pct": 13.572062800177584,
+   "share_of_net_rise_pct": 1.545998661000342
+  },
+  {
+   "group": "Robbery",
+   "ye_mar_2014": 57828,
+   "ye_jun_2026": 88282,
+   "change": 30454,
+   "change_pct": 52.66306979317977,
+   "share_of_net_rise_pct": 1.7501242741098957
+  },
+  {
+   "group": "Theft offences (incl. burglary, vehicle, shoplifting)",
+   "ye_mar_2014": 1845169,
+   "ye_jun_2026": 1644292,
+   "change": -200877,
+   "change_pct": -10.886645071535453,
+   "share_of_net_rise_pct": -11.543958554225176
+  },
+  {
+   "group": "Criminal damage and arson",
+   "ye_mar_2014": 506012,
+   "ye_jun_2026": 457556,
+   "change": -48456,
+   "change_pct": -9.576057484802732,
+   "share_of_net_rise_pct": -2.7846595464066826
+  },
+  {
+   "group": "Other crimes against society",
+   "ye_mar_2014": 45440,
+   "ye_jun_2026": 130971,
+   "change": 85531,
+   "change_pct": 188.22843309859155,
+   "share_of_net_rise_pct": 4.915278101034133
+  }
+ ],
+ "police_subgroups_2014_2026": {
+  "stalking_harassment": [
+   62656,
+   622662
+  ],
+  "violence_with_injury": [
+   322362,
+   508721
+  ],
+  "violence_without_injury": [
+   248616,
+   834095
+  ],
+  "shoplifting": [
+   321065,
+   519516
+  ],
+  "burglary": [
+   443212,
+   222304
+  ],
+  "vehicle_offences": [
+   372041,
+   312231
+  ],
+  "homicide": [
+   533,
+   512
+  ],
+  "theft_from_person": [
+   98282,
+   115891
+  ]
+ },
+ "reporting_pct": {
+  "violence": {
+   "YE Dec 1981": 23.9,
+   "YE Dec 1991": 30.2,
+   "YE Mar 2024": 44.5
+  },
+  "robbery": {
+   "YE Dec 1981": NaN,
+   "YE Dec 1991": NaN,
+   "YE Mar 2024": NaN
+  },
+  "theft_from_person": {
+   "YE Dec 1981": 39.8,
+   "YE Dec 1991": 38.7,
+   "YE Mar 2024": 25.9
+  },
+  "domestic_burglary": {
+   "YE Dec 1981": 66.7,
+   "YE Dec 1991": 72.3,
+   "YE Mar 2024": 57.7
+  },
+  "vehicle_theft": {
+   "YE Dec 1981": 40.6,
+   "YE Dec 1991": 58.1,
+   "YE Mar 2024": 43.5
+  },
+  "criminal_damage": {
+   "YE Dec 1981": 20.1,
+   "YE Dec 1991": 27.6,
+   "YE Mar 2024": 35.5
+  },
+  "all_headline": {
+   "YE Dec 1981": 30.8,
+   "YE Dec 1991": 43.4,
+   "YE Mar 2024": 36.8
+  },
+  "fraud": {
+   "YE Dec 1981": NaN,
+   "YE Dec 1991": NaN,
+   "YE Mar 2024": 14.0
+  },
+  "computer_misuse": {
+   "YE Dec 1981": NaN,
+   "YE Dec 1991": NaN,
+   "YE Mar 2024": 6.6
+  }
+ },
+ "perceptions": {
+  "period": "YE Mar 2024",
+  "national_pct": 78.8,
+  "local_pct": 50.8,
+  "base": 14977,
+  "first_period": "YE Dec 2017",
+  "first_national_pct": 69.4,
+  "first_local_pct": 41.6,
+  "peak_national_pct": 82.2,
+  "peak_period": "YE Dec 2019"
+ },
+ "csew_excl_fraud_thousands": {
+  "YE Mar 2018": 6247.0,
+  "YE Mar 2020": 5661.0,
+  "YE Mar 2023": 4385.0,
+  "YE Mar 2024": 4589.0
+ },
+ "local": {
+  "forces": 43,
+  "forces_with_rates": 42,
+  "ew_total_2026": 84.6,
+  "ew_total_2022": 91.3,
+  "lowest_force": [
+   "North Yorkshire",
+   52.1
+  ],
+  "highest_force": [
+   "Cleveland",
+   128.4
+  ],
+  "forces_up_since_2022": 10,
+  "csp_count": 314,
+  "csp_with_rates": 301,
+  "lowest_csp": [
+   "Broadland",
+   34.4
+  ],
+  "highest_csp": [
+   "Westminster",
+   342.1
+  ],
+  "csp_median": 71.55000000000001
+ },
+ "homicide": {
+  "latest": 512,
+  "min": 492,
+  "min_period": "YE Mar 2026"
+ },
+ "police_total_incl_fraud_latest": 7084375,
+ "police_fraud_latest": 1837725
+}

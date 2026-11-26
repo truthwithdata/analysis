@@ -1,0 +1,13 @@
+salary_inr_month,to,iso3,market_rate_equivalent,ppp_equivalent,ppp_over_market,with_30pct_spending_at_market_prices,times_india_median,destination_median_lcu,ppp_equivalent_times_destination_median,same_rank_salary_lcu
+50000,United Kingdom,GBR,435.7,1768,4.058,1368,3.333,2708,0.6528,9028
+50000,United States,USA,573.7,2520,4.393,1936,3.333,4481,0.5625,1.494e+04
+50000,United Arab Emirates,ARE,2107,6369,3.023,5090,3.333,,,
+50000,Germany,DEU,507.7,1812,3.569,1421,3.333,4178,0.4337,1.393e+04
+100000,United Kingdom,GBR,871.4,3536,4.058,2737,6.667,2708,1.306,1.806e+04
+100000,United States,USA,1147,5041,4.393,3873,6.667,4481,1.125,2.987e+04
+100000,United Arab Emirates,ARE,4214,1.274e+04,3.023,1.018e+04,6.667,,,
+100000,Germany,DEU,1015,3624,3.569,2841,6.667,4178,0.8673,2.785e+04
+200000,United Kingdom,GBR,1743,7072,4.058,5473,13.33,2708,2.611,3.611e+04
+200000,United States,USA,2295,1.008e+04,4.393,7745,13.33,4481,2.25,5.974e+04
+200000,United Arab Emirates,ARE,8427,2.548e+04,3.023,2.036e+04,13.33,,,
+200000,Germany,DEU,2031,7247,3.569,5682,13.33,4178,1.735,5.571e+04

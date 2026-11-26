@@ -1,0 +1,91 @@
+period,year,measure,millions,series
+YE Dec 1981,1981.5000,"CSEW incidents, excl. fraud and computer misuse",11.3030,CSEW
+YE Dec 1983,1983.5000,"CSEW incidents, excl. fraud and computer misuse",12.1280,CSEW
+YE Dec 1987,1987.5000,"CSEW incidents, excl. fraud and computer misuse",13.6470,CSEW
+YE Dec 1991,1991.5000,"CSEW incidents, excl. fraud and computer misuse",15.5640,CSEW
+YE Dec 1993,1993.5000,"CSEW incidents, excl. fraud and computer misuse",18.8350,CSEW
+YE Dec 1995,1995.5000,"CSEW incidents, excl. fraud and computer misuse",19.7860,CSEW
+YE Dec 1997,1997.5000,"CSEW incidents, excl. fraud and computer misuse",17.1680,CSEW
+YE Dec 1999,1999.5000,"CSEW incidents, excl. fraud and computer misuse",15.2470,CSEW
+YE Mar 2002,2001.7500,"CSEW incidents, excl. fraud and computer misuse",12.7710,CSEW
+YE Mar 2003,2002.7500,"CSEW incidents, excl. fraud and computer misuse",12.3900,CSEW
+YE Mar 2004,2003.7500,"CSEW incidents, excl. fraud and computer misuse",11.6090,CSEW
+YE Mar 2005,2004.7500,"CSEW incidents, excl. fraud and computer misuse",10.7780,CSEW
+YE Mar 2006,2005.7500,"CSEW incidents, excl. fraud and computer misuse",10.8630,CSEW
+YE Mar 2007,2006.7500,"CSEW incidents, excl. fraud and computer misuse",11.1820,CSEW
+YE Mar 2008,2007.7500,"CSEW incidents, excl. fraud and computer misuse",10.0400,CSEW
+YE Mar 2009,2008.7500,"CSEW incidents, excl. fraud and computer misuse",10.4320,CSEW
+YE Mar 2010,2009.7500,"CSEW incidents, excl. fraud and computer misuse",9.5440,CSEW
+YE Mar 2011,2010.7500,"CSEW incidents, excl. fraud and computer misuse",9.7110,CSEW
+YE Mar 2012,2011.7500,"CSEW incidents, excl. fraud and computer misuse",9.5930,CSEW
+YE Mar 2013,2012.7500,"CSEW incidents, excl. fraud and computer misuse",8.7570,CSEW
+YE Mar 2014,2013.7500,"CSEW incidents, excl. fraud and computer misuse",7.5540,CSEW
+YE Mar 2015,2014.7500,"CSEW incidents, excl. fraud and computer misuse",7.1770,CSEW
+YE Mar 2016,2015.7500,"CSEW incidents, excl. fraud and computer misuse",6.5290,CSEW
+YE Mar 2017,2016.7500,"CSEW incidents, excl. fraud and computer misuse",6.0570,CSEW
+YE Mar 2018,2017.7500,"CSEW incidents, excl. fraud and computer misuse",6.2470,CSEW
+YE Mar 2019,2018.7500,"CSEW incidents, excl. fraud and computer misuse",6.4310,CSEW
+YE Mar 2020,2019.7500,"CSEW incidents, excl. fraud and computer misuse",5.6610,CSEW
+YE Mar 2023,2022.7500,"CSEW incidents, excl. fraud and computer misuse",4.3850,CSEW
+YE Mar 2024,2023.7500,"CSEW incidents, excl. fraud and computer misuse",4.5890,CSEW
+YE Mar 2025,2024.7500,"CSEW incidents, excl. fraud and computer misuse",4.5950,CSEW
+YE Jun 2025,2025.0000,"CSEW incidents, excl. fraud and computer misuse",4.5380,CSEW
+YE Jun 2026,2026.0000,"CSEW incidents, excl. fraud and computer misuse",4.3500,CSEW
+YE Mar 2017,2016.7500,"CSEW incidents, incl. fraud and computer misuse",11.2160,CSEW from YE Mar 2017
+YE Mar 2018,2017.7500,"CSEW incidents, incl. fraud and computer misuse",10.7290,CSEW from YE Mar 2017
+YE Mar 2019,2018.7500,"CSEW incidents, incl. fraud and computer misuse",11.2070,CSEW from YE Mar 2017
+YE Mar 2020,2019.7500,"CSEW incidents, incl. fraud and computer misuse",10.2130,CSEW from YE Mar 2017
+YE Mar 2023,2022.7500,"CSEW incidents, incl. fraud and computer misuse",8.6560,CSEW from YE Mar 2017
+YE Mar 2024,2023.7500,"CSEW incidents, incl. fraud and computer misuse",8.7870,CSEW from YE Mar 2017
+YE Mar 2025,2024.7500,"CSEW incidents, incl. fraud and computer misuse",9.4450,CSEW from YE Mar 2017
+YE Jun 2025,2025.0000,"CSEW incidents, incl. fraud and computer misuse",9.2730,CSEW from YE Mar 2017
+YE Jun 2026,2026.0000,"CSEW incidents, incl. fraud and computer misuse",9.7010,CSEW from YE Mar 2017
+YE Dec 1981,1981.5000,"Police recorded crime, excl. fraud",2.8571,"Home Office, old counting rules"
+YE Dec 1982,1982.5000,"Police recorded crime, excl. fraud",3.1393,"Home Office, old counting rules"
+YE Dec 1983,1983.5000,"Police recorded crime, excl. fraud",3.1252,"Home Office, old counting rules"
+YE Dec 1984,1984.5000,"Police recorded crime, excl. fraud",3.3730,"Home Office, old counting rules"
+YE Dec 1985,1985.5000,"Police recorded crime, excl. fraud",3.4771,"Home Office, old counting rules"
+YE Dec 1986,1986.5000,"Police recorded crime, excl. fraud",3.7140,"Home Office, old counting rules"
+YE Dec 1987,1987.5000,"Police recorded crime, excl. fraud",3.7592,"Home Office, old counting rules"
+YE Dec 1988,1988.5000,"Police recorded crime, excl. fraud",3.5819,"Home Office, old counting rules"
+YE Dec 1989,1989.5000,"Police recorded crime, excl. fraud",3.7363,"Home Office, old counting rules"
+YE Dec 1990,1990.5000,"Police recorded crime, excl. fraud",4.3957,"Home Office, old counting rules"
+YE Dec 1991,1991.5000,"Police recorded crime, excl. fraud",5.1014,"Home Office, old counting rules"
+YE Dec 1992,1992.5000,"Police recorded crime, excl. fraud",5.4231,"Home Office, old counting rules"
+YE Dec 1993,1993.5000,"Police recorded crime, excl. fraud",5.3634,"Home Office, old counting rules"
+YE Dec 1994,1994.5000,"Police recorded crime, excl. fraud",5.1077,"Home Office, old counting rules"
+YE Dec 1995,1995.5000,"Police recorded crime, excl. fraud",4.9672,"Home Office, old counting rules"
+YE Dec 1996,1996.5000,"Police recorded crime, excl. fraud",4.9003,"Home Office, old counting rules"
+YE Dec 1997,1997.5000,"Police recorded crime, excl. fraud",4.4639,"Home Office, old counting rules"
+YE Mar 1998,1997.7500,"Police recorded crime, excl. fraud",4.4091,"Home Office, old counting rules"
+YE Mar 1999,1998.7500,"Police recorded crime, excl. fraud",4.3081,"Home Office, old counting rules"
+YE Mar 1999,1998.7500,"Police recorded crime, excl. fraud",4.8296,"Home Office, new counting rules (from Apr 1998)"
+YE Mar 2000,1999.7500,"Police recorded crime, excl. fraud",4.9664,"Home Office, new counting rules (from Apr 1998)"
+YE Mar 2001,2000.7500,"Police recorded crime, excl. fraud",4.8515,"Home Office, new counting rules (from Apr 1998)"
+YE Mar 2002,2001.7500,"Police recorded crime, excl. fraud",5.2102,"Home Office, new counting rules (from Apr 1998)"
+YE Mar 2003,2002.7500,"Police recorded crime, excl. fraud",5.7913,ONS A5a (NCRS from Apr 2002)
+YE Mar 2004,2003.7500,"Police recorded crime, excl. fraud",5.8435,ONS A5a (NCRS from Apr 2002)
+YE Mar 2005,2004.7500,"Police recorded crime, excl. fraud",5.4768,ONS A5a (NCRS from Apr 2002)
+YE Mar 2006,2005.7500,"Police recorded crime, excl. fraud",5.4257,ONS A5a (NCRS from Apr 2002)
+YE Mar 2007,2006.7500,"Police recorded crime, excl. fraud",5.3224,ONS A5a (NCRS from Apr 2002)
+YE Mar 2008,2007.7500,"Police recorded crime, excl. fraud",4.8811,ONS A5a (NCRS from Apr 2002)
+YE Mar 2009,2008.7500,"Police recorded crime, excl. fraud",4.6304,ONS A5a (NCRS from Apr 2002)
+YE Mar 2010,2009.7500,"Police recorded crime, excl. fraud",4.2650,ONS A5a (NCRS from Apr 2002)
+YE Mar 2011,2010.7500,"Police recorded crime, excl. fraud",4.0785,ONS A5a (NCRS from Apr 2002)
+YE Mar 2012,2011.7500,"Police recorded crime, excl. fraud",3.9036,ONS A5a (NCRS from Apr 2002)
+YE Mar 2013,2012.7500,"Police recorded crime, excl. fraud",3.5532,ONS A5a (NCRS from Apr 2002)
+YE Mar 2014,2013.7500,"Police recorded crime, excl. fraud",3.5065,ONS A5a (NCRS from Apr 2002)
+YE Mar 2015,2014.7500,"Police recorded crime, excl. fraud",3.5746,ONS A5a (NCRS from Apr 2002)
+YE Mar 2016,2015.7500,"Police recorded crime, excl. fraud",3.8985,ONS A5a (NCRS from Apr 2002)
+YE Mar 2017,2016.7500,"Police recorded crime, excl. fraud",4.3216,ONS A5a (NCRS from Apr 2002)
+YE Mar 2018,2017.7500,"Police recorded crime, excl. fraud",4.8884,ONS A5a (NCRS from Apr 2002)
+YE Mar 2019,2018.7500,"Police recorded crime, excl. fraud",5.2660,ONS A5a (NCRS from Apr 2002)
+YE Mar 2020,2019.7500,"Police recorded crime, excl. fraud",5.3121,ONS A5a (NCRS from Apr 2002)
+YE Mar 2021,2020.7500,"Police recorded crime, excl. fraud",4.6158,ONS A5a (NCRS from Apr 2002)
+YE Mar 2022,2021.7500,"Police recorded crime, excl. fraud",5.3295,ONS A5a (NCRS from Apr 2002)
+YE Mar 2023,2022.7500,"Police recorded crime, excl. fraud",5.5780,ONS A5a (NCRS from Apr 2002)
+YE Mar 2024,2023.7500,"Police recorded crime, excl. fraud",5.4068,ONS A5a (NCRS from Apr 2002)
+YE Mar 2025,2024.7500,"Police recorded crime, excl. fraud",5.3082,ONS A5a (NCRS from Apr 2002)
+YE Jun 2025,2025.0000,"Police recorded crime, excl. fraud",5.2853,ONS A5a (NCRS from Apr 2002)
+YE Mar 2026,2025.7500,"Police recorded crime, excl. fraud",5.2332,ONS A5a (NCRS from Apr 2002)
+YE Jun 2026,2026.0000,"Police recorded crime, excl. fraud",5.2466,ONS A5a (NCRS from Apr 2002)
